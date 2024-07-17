@@ -28,29 +28,43 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element ref="ns1:title"/>
-        <xs:element ref="ns1:author"/>
+        <xs:element ref="ns1:editor"/>
+        <xs:element maxOccurs="unbounded" ref="ns1:author"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="author" type="xs:string"/>
+  <xs:element name="editor" type="xs:string"/>
+  <xs:element name="author">
+    <xs:complexType mixed="true">
+      <xs:attribute name="ref" use="required" type="xs:anyURI"/>
+    </xs:complexType>
+  </xs:element>
   <xs:element name="publicationStmt">
     <xs:complexType>
       <xs:sequence>
         <xs:element ref="ns1:publisher"/>
         <xs:element ref="ns1:address"/>
-        <xs:element ref="ns1:date"/>
+        <xs:element maxOccurs="unbounded" ref="ns1:date"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="publisher" type="xs:double"/>
+  <xs:element name="publisher">
+    <xs:complexType mixed="true">
+      <xs:attribute name="ref" use="required" type="xs:anyURI"/>
+    </xs:complexType>
+  </xs:element>
   <xs:element name="address">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="ns1:placeName"/>
+        <xs:element maxOccurs="unbounded" ref="ns1:placeName"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="placeName" type="xs:string"/>
+  <xs:element name="placeName">
+    <xs:complexType mixed="true">
+      <xs:attribute name="ref" use="required" type="xs:anyURI"/>
+    </xs:complexType>
+  </xs:element>
   <xs:element name="date">
     <xs:complexType>
       <xs:simpleContent>
