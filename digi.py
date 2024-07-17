@@ -7,6 +7,7 @@ from xml.etree import ElementTree as ET
 import re
 import json
 import typing
+from os import path
 
 # Global Declarations
 
@@ -15,9 +16,10 @@ Verse: typing.TypeAlias = v
 hex_scanner = HexameterScanner()
 macronizer = Macronizer("tag_ngram_123_backoff")
 
-FILE_NAME = "mosella_v.txt"
-FILE_NAME_TRANSLATION = "translation.txt"
-JSON_NAME = "mosella_meta.json"
+FILE_NAME = path.join("TXTs", "mosella_v.txt")
+FILE_NAME_TRANSLATION = path.join("TXTs", "translation.txt")
+JSON_NAME = path.join("JSON", "mosella_meta.json")
+OUTPUT_NAME = path.join("Results", "mosella.xml")
 
 COUNT = 1
 TRUE = 0
@@ -62,7 +64,7 @@ def load_json(filename: str) -> dict:
 
 def write_xml(root: ET.ElementTree, filename: str) -> None:
     ET.indent(root, space="\t", level=0)
-    with open(filename + ".xml", "wb") as f:
+    with open(filename, "wb") as f:
         f.write(bytes('<?xml version="1.0" encoding="UTF-8"?>\n', "utf-8"))
         root.write(f, encoding="utf-8")
 
@@ -187,13 +189,12 @@ def create_body(tei_body: ET.Element, text: typing.List[Verse], trans: typing.It
         line = ET.SubElement(lat_block, "l", {"n": str(i), "met": meter})
         line.text = remove_macrons(verse.original)
 
-        # Syllable normalisation
+        # Syllable normalisation (j to i)
         syllables = [
             re.sub(r"j", "i", s)
             for s in verse.syllables
         ]
-        if len(syllables) != len(verse.syllables):
-            print("WARNING")
+
         # Add syllables to line
         syll_count = 1
         if verse.valid and len(syllables) == len(pro_meter):
@@ -246,7 +247,7 @@ def main():
     print("\nValid Hexameters:", TRUE, "/", MAX_COUNT, "\n")
     log(analyzed)
     root = to_tei(analyzed, block_trans)
-    write_xml(root, FILE_NAME[:-4])
+    write_xml(root, OUTPUT_NAME)
 
 
 if __name__ == '__main__':

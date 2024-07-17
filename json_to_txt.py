@@ -1,6 +1,6 @@
 import json
 
-f = open("ausonius-decimus-magnus__mosella__latin.json", "r", encoding="utf-8")
+f = open("JSON/ausonius-decimus-magnus__mosella__latin.json", "r", encoding="utf-8")
 
 data = json.load(f)
 
