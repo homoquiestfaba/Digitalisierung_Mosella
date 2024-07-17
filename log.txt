@@ -1,0 +1,484 @@
+trānsiērām celerēm nebulōsō flūmine nāvam	trāns, je, rām, ce, le, rēm, ne, bu, lo, sō, flū, mi, ne, na, vam  -   - -   U U -   U U - -   - U U  - U 	True
+āddītā miratūs veterī nova moenia Vīnco	ād, di, ta, mi, ra, tūs, ve, te, ri, no, va, moe, ni, a, Vīn, co-  - -  U U -   U U -  U U   - UU  -  U 	True
+aequāvīt Latiās ubi quōndām Gāllia Cānnas	ae, qua, vīt, La, ti, as, u, bi, quōn, dām, Gāl, li, a, Cān, nas -  - -   U U-  U U   -  -   -  UU  -  U 	True
+īnflētaeque iacēnt inopēs super ārva catērvae	īn, fle, tae, que, ja, cēnt, in, o, pēs, su, per, ār, va, ca, tēr, vae-   -  -  U  U -   U U -   U U  -  U  U -   - 	True
+ūnde iter īngrediēns nemorōsa per āvia sōlum	ūnd, i, ter, īn, gre, di, ēns, ne, mo, ro, sa, per, a, vi, a, so, lum-    U U  -   U U-    U U - U  U  - UU  - U 	True
+ēt nūlla hūmānī spēctāns vēstīgia cūltus	ēt, nūll, hu, ma, nī, spēc, tāns, vēs, ti, gi, a, cūl, tus-   -     - - -   -  -    -  - UU  -  U 	True
+praetereo ārēntēm sitiēntibus ūndique tērris	prae, te, re, a, rēn, tēm, si, ti, ēn, ti, bus, ūn, di, que, tēr, ris   - U U  - -  -   U U-  U U  -  U  U  -  U 	True
+Dūmnīssūm rīguāsque perēnnī fōnte Tabērnas	Dūm, nīs, sūm, rig, wās, que, per, ēn, ni, fōn, te, Ta, bēr, nas -  -  -   -  -   U  U -  -  -  U  U -  U 	True
+ārvaque Sauromatūm nūpēr mētāta colōnis	ār, va, que, Sau, ro, ma, tūm, nu, pēr, me, ta, ta, co, lo, nis-  U  U   - U U -   - -   - - U  U - U  	True
+ēt tāndēm prīmīs Bēlgārūm cōnspicor ōris	ēt, tān, dēm, pri, mīs, Bēl, ga, rūm, cōn, spi, cor, o, ris-   -  -    - -   -  - -   -   U U  - U 	True
+Nōiomagūm  dīvī cāstra īnclita Cōnstāntīni	No, jo, ma, gūm, di, vi, cāstr, īn, cli, ta, Cōn, stān, ti, ni - U U -    - -  -     -   U U  -   -  - U 	True
+pūrīōr hīc cāmpīs aer Phoebūsque serēno	pu, ri, or, hīc, cām, pis, aer, Phoe, būs, que, se, re, no - --   -   -  -   -     - -   U  U - U	True
+lūmine pūrpūreum reserāt iām sūdus Olȳmpum	lu, mi, ne, pūr, pu, reum, re, se, rāt, jām, su, dus, O, lȳm, pum - U U  -  -  -   U U -   -   - U  U -  U  	True
+nēc iām  cōnsērtīs pēr mūtua vīncula rāmis	nēc, jām, cōn, sēr, tīs, pēr, mu, tu, a, vīn, cu, la, ra, mis -   -    -  -  -   -   - UU  -  U U  - U  	True
+quaeritur ēxclūsūm vīrīdi calīgine caelum	quae, ri, tur, ēx, clu, sūm, vi, ri, di, ca, li, gi, ne, cae, lum   - U U  -   - -   - - U  U - U U   - U  	True
+sēd liquidūm iubar ēt rutilām vīsēntibus aethram	sēd, li, qui, dūm, ju, bar, ēt, ru, ti, lām, vi, sēn, ti, bus, aeth, ram -   U  U -   U U  -   U U -   - -  U U   -   U 	True
+lībera pērspīcūi non īnvidet aurā dīei	li, be, ra, pēr, spi, cu, i, non, īn, vi, det, au, ra, di, ei - U U  -   - -U  U  -  U U   - -  - - 	True
+īn speciēm quin me pātrīae cūltūmque nitēntis	īn, spe, ci, ēm, quin, me, pā, tri, ae, cūl, tūm, que, ni, tēn, tis-    U U-    U   U  -  - -  -  -   U  U -  U 	True
+Būrdigalae blāndō pepulērūnt ōmnia vīsu	Būr, di, ga, lae, blān, do, pe, pu, le, rūnt, ōm, ni, a, vi, su -  U U  -   -  -  U U - -   -  UU  - U 	True
+cūlmina vīllārūm pēndēntibus ēdita rīpis	cūl, mi, na, vīl, la, rūm, pēn, dēn, ti, bus, e, di, ta, ri, pis -  U U  -  - -   -  -  U U  - U U  - U 	True
+	ēt, vi, ri, dēs, Bāc, cho, cōl, les, et, a, moe, nā, flu, ēn, ta-   U U -   -   -  -  U  U  U  - -   --  U	False
+sūbtēr lābēntīs tācīto rumōre Mosēllae	sūb, tēr, la, bēn, tīs, ta, ci, to, ru, mo, re, Mo, sēl, lae -  -   - -  -   - - U  U - U  U -   - 	True
+Sālve  āmnīs laudāte āgrīs  laudāte colōnis	Sālv, ām, nīs, lau, dat, āg, rīs, lau, da, te, co, lo, nis -     -  -    - -   -  -     - - U  U - U  	True
+dīgnāta īmpērīo debēnt cui moenia Bēlgae	dī, gnat, īm, pe, ri, o, de, bēnt, cui, moe, ni, a, Bēl, gae -  -   -  - -U  U -     -   - UU  -   - 	True
+āmnis odōriferō iuga vītea cōnsite Bāccho	ām, nis, o, do, ri, fe, ro, ju, ga, vi, te, a, cōn, si, te, Bāc, cho-  U  U - U U -  U U  - UU  -  U U  -   U 	True
+cōnsītē graminēās  āmnis virīdissimē  ripas	cōn, si, tē, gra, mi, ne, as, ām, nīs, vi, ri, dīs, si, me, ri, pas -  - -   U U --   -  U   U - U  U -   U    	True
+nāviger  ūt pelagūs  dēvēxās prōnus in ūndas	na, vi, ger, ūt, pe, la, gūs, de, vē, xās, pro, nus, in, ūn, das - U U   -   U U -    - - -    - U  U  -  U  	True
+ūt fluviūs  vitreōque lacūs imitāte profūndo	ūt, flu, vi, ūs, vī, tre, o, que, la, cus, i, mi, ta, tē, pro, fūn, do-    U U-    U  U-  U  U -  U U - U   U -  U	True
+ēt rīvōs trepidō potis aequiperāre meātu	ēt, ri, vōs, tre, pi, do, po, tis, ae, qui, pe, ra, re, me, a, tu-   - -    U U -  U U   -  U U - U  U- U 	True
+ēt liquidō gelidōs fōntēs praecēllere pōtu	ēt, li, qui, do, ge, li, dōs, fōn, tēs, prae, cēl, le, re, po, tu-   U  U -  U U -   -  -     - -  U U  - U 	True
+ōmnia sōlus habēs  quae fōns  quae rīvus et āmnis	ōm, ni, a, so, lus, ha, bēs, quae, fōns, quae, ri, vus, et, ām, nis-  UU  - U   U -      -  -       -  - U  U  -  U 	True
+	ēt, la, cus, ēt, bi, vi, o, rē, flu, ūs, ma, na, mi, ne, pōn, tus-   U U  -   U UU  -  --   U U U U  -  U  	False
+tū placidīs praelāpsus aquīs nēc mūrmura vēnti	tū, pla, ci, dīs, prae, lāp, sus, a, quis, nēc, mūr, mu, ra, vēn, ti -   U U -     - -  U  U  -   -   -  U U  -  U	True
+ūlla  nec ōccūltī paterīs lūctāmina sāxi	ūl, la, nec, ōc, cūl, ti, pa, te, rīs, lūc, ta, mi, na, sā, xi-  U   U  -  -  -  U U -   -  - U U  - U 	True
+nōn spīrānte   vadō rapidōs properāre   meātus	nōn, spi, rān, te, va, do, ra, pi, dōs, pro, pe, ra, re, me, a, tus -    - -  U    U -  U U -    U U - U    U- U 	True
+cōgeris  ēxtāntēs mēdīo non aequore tērras	co, ge, ris, ēx, tān, tēs, me, di, o, non, ae, quo, re, tēr, ras - U U   -  -  -   - -U  U   -  U U  -  U 	True
+īntērcēptūs hābēs  iūsti ne dēmat honōrem	īn, tēr, cē, ptus, ha, bēs, jūs, ti, ne, de, mat, ho, no, rem-  -  -  -   - -    -  U  U  - U   U - U 	True
+	no, mi, nis, ēx, clu, sūm, si, di, vi, dat, īn, su, lā, flu, men - U U   -   - -   U  U U U  -  - -   - U  	False
+	tu, dū, pli, cēs, sōr, ti, te, vi, as, ēt, c, ām, ne, se, cūn, do -  -  - -   -  U U  UU   -      -  -  - -  U	False
+dēfluis  ūt celerēs feriānt vada cōncita rēmi	dē, flu, is, ūt, ce, le, rēs, fe, ri, ānt, va, da, cōn, ci, ta, re, mi -  UU   -   U U -   U U-    U U  -  U U  - U 	True
+ēt cūm pēr rīpās nūsquām cēssānte remūlco	ēt, cūm, pēr, ri, pās, nūs, quām, cēs, sān, te, re, mūl, co-   -   -   - -   -   -   -  -  U  U -  U	True
+īntēndūnt cōllō mālōrūm vīncula nautae	īn, tēn, dūnt, cōl, lo, ma, lo, rūm, vīn, cu, la, nau, tae-  -  -    -  -  - - -   -  U U   -  U 	True
+īpse tuōs quotiēns mīrāris in āmne recūrsus	īp, se, tu, ōs, quo, ti, ēns, mi, ra, ris, in, ām, ne, re, cūr, sus-  U  U-    U U-    - - U  U  -  U  U -  U  	True
+lēgitimōsque putās prope sēgnius īre meātus	le, gi, ti, mōs, que, pu, tās, pro, pe, sē, gni, us, i, re, me, a, tus - U U -   U  U -    U U  -  UU  - U  U- U  	True
+tū neque līmigenīs rīpām praetēxeris ūlvis	tu, ne, que, li, mi, ge, nīs, ri, pām, prae, tē, xe, ris, ūl, vis -  U  U  - U U -   - -     - - U U  -  U  	True
+nēc piger īnmūndō pērfūndīs lītora caeno	nēc, pi, ger, īn, mūn, do, pēr, fūn, dīs, li, to, ra, cae, no -   U U  -  -  -  -  -  -   - U U   - U 	True
+sīcca īn prīmōrēs pērgūnt vēstīgia lȳmphas	sīcc, īn, pri, mo, rēs, pēr, gūnt, vēs, ti, gi, a, lȳm, phas -    -    - - -   -  -    -  - UU  -   U  	True
+	i, nūnc, ēt, Phry, gi, īs, so, la, le, vi, a, cōn, se, rē, crūs, tis-  -    -     U U-   U U  U UU  -  - -   -  U 	False
+tēndēns mārmōreum laqueāta per ātria cāmpum	tēn, dēns, mār, mo, reum, la, que, a, ta, per, āt, ri, a, cām, pum -  -    -  -  -   U  U- U  U  -  UU  -  U  	True
+āst ego dēspēctīs  quae cēnsus opēsque dedērūnt	āst, e, go, dē, spēc, tīs, quae, cēn, sus, o, pēs, que, de, de, rūnt-   U U  -  -  -      -  -  U  U -   U  U - -   	True
+nātūrae mīrābor opūs  nōn dīra nepōtum	na, tu, rae, mi, ra, bor, o, pūs, nōn, di, ra, ne, po, tum - -  -  - - U  U -    -   - U  U - U 	True
+laetaque iāctūrīs ubi lūxuriātur egēstas	lae, ta, que, jāc, tu, ris, u, bi, lū, xu, ri, a, tur, e, gēs, tas  - U  U  -  - -  U U  - U U- U  U -  U  	True
+hīc solidae stērnūnt ūmēntia lītora harēnae	hīc, so, li, dae, stēr, nūnt, u, mēn, ti, a, li, tor, ha, re, nae -   U U  -   -  -   - -  UU  - U    U -  - 	True
+nēc retinēnt memorēs vēstīgiā prēssa figūras	nēc, re, ti, nēnt, me, mo, rēs, vēs, tīg, jā, prēs, sa, fi, gu, ras -   U U -    U U -   -  -  -   -  U  U - U  	True
+Spēctāns vītreo pēr leviā tērgā prōfūndo	Spēc, tāns, vī, tre, o, pēr, le, vi, a, tēr, gā, pro, fūn, do  -  -    -  UU  -   U U-  -  -   - -  U 	True
+sēcrētī nihil āmnis habēns  utqūe ālmus apērto	sē, cre, ti, ni, hil, ām, nis, ha, bēns, ūtqu, āl, mus, a, pēr, to -  - -  U U  -  U   U -       -  -  U  U -  U	True
+pāndītūr īntūitu   līquidis ōbtutibūs aer	pān, di, tur, īn, tu, i, tu, li, qui, dis, ōb, tu, ti, bus, aer -  - -  -  -U U    -  U U  -  U U -   - 	True
+nēc placidī prohibēnt oculōs per inānia vēnti	nēc, pla, ci, dī, pro, hi, bēnt, o, cu, lōs, per, in, a, ni, a, vēn, ti -    U U -   U U -   U U -   U  U - UU  -  U 	True
+sīc dēmērsā prōcūl dūrante pēr intimā visu	sīc, de, mēr, sā, pro, cūl, du, rān, te, per, īn, ti, ma, vi, su -   - -  -   - -   - U  U  -  U  U -  U  	True
+	cēr, ni, mus, ār, ca, ni, que, pa, tēt, pe, nē, tra, lē, pro, fūn, di -  U U   -  U U  U  U -   - -  - -   - -  U 	False
+cūm vada lēne meānt liquidārum ēt lāpsus aquārum	cūm, va, da, le, ne, me, ānt, li, qui, dar, ēt, lāp, sus, a, qua, rum -   U U  - U  U-    U  U -    -   -  U  U  - U 	True
+prōdīt caeruleā dīspērsās lūce figūras	pro, dīt, cae, ru, le, a, dīs, pēr, sās, lu, ce, fi, gu, ras  - -    - U U-  -  -  -   - U  U - U  	True
+quōd sūlcātā lēvī crīspatur hārena mēatu	quōd, sūl, ca, ta, le, vī, crīs, pa, tur, ha, re, na, me, a, tu  -   -  - -  - -   -  U U   - U U  -U   	True
+īnclīnātā trēmunt virīdī quōd graminā fundo	īn, clī, nā, tā, tre, mūnt, vi, ri, dī, quōd, gra, mi, na, fūn, do-   - - -   - U    U - -   -    U U -  U   	True
+ūsque sub īngenuis agitātae fōntibus hērbae	ūs, que, sub, īn, ge, nu, is, a, gi, ta, tae, fōn, ti, bus, hēr, bae-   U  U  -  U U-  U U -  -  -  U U   -   -	True
+vībrāntēs patiūntur aquās lūcētque latētque	vī, brān, tēs, pa, ti, ūn, tur, a, quās, lu, cēt, que, la, tēt, que -  -  -   U U-  U  U  -   - -   U  U -   U	True
+cālculus ēt viridēm dīstīnguit glārea mūscum	cāl, cu, lus, ēt, vi, ri, dēm, dīs, tīn, guit, gla, re, a, mūs, cum -  U U  -   U U -   -  -   -    - UU  -  U  	True
+	to, ta, Ca, le, do, ni, īs, ta, līs, pa, tet, o, rā, Bri, tān, nis - U  U U U U-   - -   U U  U -   - -  U  	False
+cūm viridēs ālgās ēt rūbra corāllia nūdat	cūm, vi, ri, des, āl, gas, ēt, rū, bra, co, rāl, li, a, nu, dat -   U U -  -  -  -   -  U  U -  UU  - U 	True
+aestus et ālbēntēs cōnchārūm gērmina bācas	aes, tus, et, āl, bēn, tēs, cōn, cha, rūm, gēr, mi, na, ba, cas -  U  U  -  -  -   -   - -   -  U U  - U  	True
+dēliciās hominūm  locuplētibus ātque sub ūndis	de, li, ci, as, ho, mi, nūm, lo, cū, ple, ti, bus, āt, que, sub, ūn, dis - U U-   U U -    U U  - U U  -   U  U  -  U 	True
+ādsimulānt nōstrōs imitāta monīlia cūltus	ād, si, mu, lānt, nōs, tros, i, mi, ta, ta, mo, ni, li, a, cūl, tus-  U U -    -   -  U U - U  U - UU  -  U  	True
+haud alitēr placidae sūbtēr vada laeta Mosēllae	haud, a, li, tēr, pla, ci, dae, sūb, tēr, va, da, lae, ta, Mo, sēl, lae  -  U U -    U U  -  -  -   U U   - U  U -   -	True
+dētegit ādmīxtōs nōn cōncolor hērba lapīllos	de, te, git, ād, mīx, tōs, nōn, cōn, co, lor, hēr, ba, la, pīl, los - U U  -  -  -   -   -  U U   -  U  U -  U  	True
+īntēntōs tamen usqūe oculōs ērrōre fatīgānt	īn, tēn, tōs, ta, men, ūsqu, o, cu, lōs, ēr, ro, re, fa, tī, gānt-  -  -   U U     -  U U -  -  - U  U - -  	True
+īntērlūdēntēs  ēxāmina lūbrica  pīsces	īn, tēr, lu, dēn, tes, ēx, a, mi, na, lū, bri, ca, pīs, ces-  -  - -  -   - - U U  -  U U   -  U  	True
+sēd nēquē tōt spēcies ōbliquatōsque natātus	sēd, ne, que, tōt, spe, ci, es, ōb, li, qua, tōs, que, na, ta, tus -   -  -  -    - UU  -  U  U -   U  U - U 	True
+	quae, que, per, ād, vēr, sūm, sūc, ce, dūnt, āg, mi, nā, flu, men   -  U  U  -  -  -   -  - -   -  - -   - U  	False
+nōminaque ēt cūnctōs numerōsae stīrpis alūmnos	no, mi, naqu, ēt, cūn, ctōs, nu, me, ro, sae, stīr, pis, a, lūm, nos - U   U  -   -   -   U U -  -   -  U  U -  U 	True
+ēdere fās aut īlle sinīt  cui cūra secūndae	e, de, re, fas, aut, īl, le, sin, īt, cui, cu, ra, se, cūn, dae- U U  -   -  -  U  U -     -  - U  U -   -	True
+sōrtis et aequōrei cēssīt tutelā trīdēntis	sōr, tis, et, ae, quo, rei, cēs, sīt, tu, te, lā, tri, dēn, tis -  U  U   -  -  -  -  -   U U -   - -  U  	True
+tū mīhī flumineis habitātrīx Nāis in ōris	tu, mi, hī, flu, mi, neis, ha, bi, tā, trīx, Na, is, in, o, ris -  - -   U U  -   U U -  -   -U  U  - U 	True
+	squa, mi, ge, rī, gre, gis, e, de, cho, rōs, li, qui, do, que, sub, āl, ve, o   - U U -   U U  U U   U -   U  U U  U  U  -  -U	False
+dīssere caeruleō fluitāntēs āmne catērvas	dīs, se, re, cae, ru, le, ō, flu, i, tān, tes, ām, ne, ca, tēr, vas -  U U   - U U-   UU -  -  -  U  U -  U  	True
+Squāmeus hērbōsās capito īntēr lūcet harēnas	Squa, meus, hēr, bo, sās, ca, pit, īn, tēr, lu, cet, ha, re, nas   -  -   -  - -   U U   -  -   - U   U - U  	True
+vīscērē praetenērō fārtīm cōngestus āristis	vīs, ce, rē, prae, te, ne, ro, fār, tīm, cōn, gēs, tus, a, rīs, tis -  - -    U U - -  -  -   -  U  U  - U    	True
+nēc duratūrūs pōst bīnā trīhōria mēnsis	nēc, du, ra, tu, rūs, pōst, bi, nā, tri, ho, ri, a, mēn, sis -   U U - -   -    - -   - - UU  -  U  	True
+pūrpūreisque salār stēllātūs tērgora gūttis	pūr, pu, reis, que, sa, lār, stēl, la, tūs, tēr, go, ra, gūt, tis -  -  -   U  U -    -  - -   -  U U  -  U 	True
+ēt nūllō spīnae nocitūrus acūmine rhēdo	ēt, nūl, lō, spi, nae, no, ci, tu, rus, ac, u, mi, ne, rhe, do-   -  -   -  -  U U - U  U - U U   - U	True
+ēffugiensqūe oculōs celerī levis ūmbra natātu	ēf, fu, gi, ēnsqu, o, cu, lōs, ce, le, ri, le, vis, ūm, bra, na, ta, tu-  U U    -  U U -   U U -  U U  -   U  U - U 	True
+Jūque per ōblīquī faucēs vēxāte Sarāvi	Ju, que, per, ōb, li, qui, fau, cēs, vē, xa, te, Sa, ra, vi -  U  U  -  -  -   - -   - - U  U - U 	True
+quā bīs tērnā frēmūnt scōpulosīs ostiā pilis	qua, bīs, tēr, nā, fre, mūnt, sco, pu, lo, sis, ōs, ti, a, pi, lis  -  -   -  -   - -     - U U -  U  U-  U    	True
+cūm dēflūxīstī fāmae māiōris in āmnem	cūm, dē, flū, xīs, ti, fa, mae, ma, jo, ris, in, ām, nem -   -  - -  -  -  -  - - U  U  -  U  	True
+līberiōr lāxōs ēxērcēs  bārbe  natātus	li, be, ri, ōr, lā, xos, ēx, ēr, cēs, bār, be, na, ta, tus - U U-   - -  - -  -    -  U   U - U  	True
+tū meliōr pēiōre aevō  tibi cōntigit ōmni	tu, me, li, ōr, pe, jor, ae, vo, ti, bi, cōn, ti, git, ōm, ni -  U U-   - -    - -   U U  -  U U  -  U	True
+spīrāntum ēx nūmēro non īnlaudāta senēctus	spi, rānt, ēx, nu, me, ro, non, īn, lau, da, ta, se, nēc, tus  - -     -   - - U  U  -   - - U  U -  U  	True
+Nēc tē pūniceō rutilāntēm vīscere  sālmo	Nēc, te, pu, ni, ce, o, ru, ti, lān, tēm, vīs, ce, re, sāl, mo -   -  - U U-  U U -  -   -  U U   -  U 	True
+trānsiērīm  lātae cūiūs vaga vērbera caudae	trāns, je, rīm, la, tae, cu, jūs, va, ga, vēr, be, ra, cau, dae  -   - -    -  -  - -   U U  -  U U   -  -	True
+gūrgite dē mediō sūmmās referūntur in ūndas	gūr, gi, te, de, me, di, o, sūm, mās, re, fe, rūn, tur, in, ūn, das -  U U  -  U U-  -  -   U U -  U  U  -  U  	True
+ōccūltūs placidō cūm prōditur aequore pūlsus	ōc, cūl, tūs, pla, ci, do, cūm, pro, di, tur, ae, quo, re, pūl, sus-  -  -    U U -  -    - U U   -  U U  -  U  	True
+tū lōrīcātō squāmōsūs pēctore  frōntem	tu, lo, ri, ca, tō, squa, mo, sūs, pēc, to, rē, frōn, tem -  - - - -    - - -   -  U U    -  U 	True
+lūbricus ēt dubiae fāctūrūs fērcula cēnae	lū, bri, cus, ēt, du, bi, ae, fāc, tu, rūs, fēr, cu, la, ce, nae -  U U  -   U U -  -  - -   -  U U  -  - 	True
+tēmpora lōngārūm fērs īncōrrūpte morārum	tēm, po, ra, lōn, ga, rūm, fērs, īn, cōr, rū, pte, mo, ra, rum -  U U  -  - -   -   -  -  -  U  U - U  	True
+praesīgnīs maculīs capitīs  cui prōdiga nūtat	prae, sī, gnīs, ma, cu, līs, ca, pi, tīs, cui, pro, di, ga, nu, tat   - -  -   U U -   U U -     -   - U U  - U 	True
+ālvus opīmatoquē flūēns ābdōmine vēnter	āl, vus, o, pi, ma, to, quē, flu, ēns, āb, do, mi, ne, vēn, ter-  U  U - U U  -   --   -  - U U  -  U  	True
+quaeque per Īllyricūm  pēr stāgna binōminis Hīstri	quae, que, per, Īl, ly, ri, cūm, pēr, stā, gna, bi, no, mi, nis, Hīs, tri   -  U  U  -  U U -    -    -  U  U - U U   -   U	True
+spūmārum īndiciīs caperīs  mūstēla  natāntum	spu, mar, īn, di, ci, īs, ca, pe, rīs, mūs, te, la, na, tān, tum  - -    -  U U-   U U -    -  - U   U -  U  	True
+īn nōstrūm sūbvēctā frētūm  nē laeta Mōsēllae	īn, nōs, trūm, sūb, vēc, tā, fre, tūm, ne, lae, ta, Mo, sēl, lae-   -   -   -  -  -   - -    -   U U  - -    	True
+flūmina tām cēlēbrī dēfrudarēntur alūmno	flu, mi, na, tām, ce, lē, bri, dē, fru, da, rēn, tur, a, lūm, no  - U U  -   - -  -  -  U U -  U  U -  U 	True
+quīs tē nātūrae pīnxīt color ātra supērne	quis, tē, nā, tū, rae, pīn, xīt, co, lor, āt, ra, su, pēr, ne  -   -  - -  -  -  -   U U  -  U  U -  U	True
+pūncta notānt tērgūm  quā lūtea cīrcuit īris	pūn, cta, no, tānt, tēr, gūm, qua, lu, te, a, cīr, cu, it, i, ris -   U  U -    -  -     -  - UU  -  UU  - U  	True
+lūbrica caerūleus pērdūcīt tērgora fūcus	lū, bri, ca, cae, ru, leus, pēr, du, cīt, tēr, go, ra, fu, cus -  U U   - -  -   -  - -   -  U U  - U  	True
+cōrporis ād mediūm fārtīm pīnguēscis  at īllīnc	cōr, po, ris, ād, me, di, ūm, fār, tīm, pīn, guēs, cis, at, īl, līnc -  U U  -   U U-   -  -   -   -  U   U  -  -  	True
+ūsque sub ēxtrēmām squālēt cutis ārida caudam	ūs, que, sub, ēx, tre, mām, squa, lēt, cu, tis, a, ri, da, cau, dam-   U  U  -   - -     - -   U U  - U U   - U  	True
+Nēc tē  dēliciās mēnsārūm  pērca  silēbo	Nēc, te, de, li, ci, ās, mēn, sa, rūm, pēr, ca, si, le, bo -   -   - U U-   -  - -    -  U   U - U 	True
+āmnigenōs īntēr pīscēs dīgnānde marīnis	ām, ni, ge, nos, īn, tēr, pīs, cēs, dī, gnān, de, ma, ri, nis-  U U -  -  -   -  -   -  -  U  U - U  	True
+sōlūs pūnīceis facilīs cōntēndere mūllis	so, lūs, pu, ni, ceis, fa, ci, līs, cōn, tēn, de, re, mūl, lis - -   - -  -   U U -   -  -  U U  -  U  	True
+nām neque gūstus inērs solidoqūe īn cōrpore pārtes	nām, ne, que, gūs, tus, in, ērs, so, li, doqu, īn, cōr, po, re, pār, tes -   U  U  -  U  U -    U U   -  -   -  U U  -  U 	True
+sēgmēntīs cōeunt  sēd dīssociāntur arīstis	sē, gmēn, tīs, co, eunt, sēd, dīs, so, ci, ān, tur, a, rīs, tis -  -  -   - -     -   -  U U-  U  U -  U  	True
+hīc etiām Lātīo risūs praenōmine  cūltor	hic, e, ti, ām, La, ti, o, ri, sūs, prae, no, mi, ne, cūl, tor -  U U-   - -U  U -     - - U U   -  U 	True
+stāgnōrūm  querulīs vīs īnfēstīssima rānis	stā, gno, rūm, que, ru, līs, vis, īn, fēs, tīs, si, ma, ra, nis  -  - -     U U -   -  -  -  -  U U  - U  	True
+lūcius  ōbscūrās ūlvā caenōque lacūnas	lu, ci, us, ōb, scu, ras, ūl, va, cae, no, que, la, cu, nas - UU   -   - -  -  -   - -  U  U - U 	True
+ōbsidet  hīc nūllōs mēnsārūm lēctus ad ūsus	ōb, si, det, hīc, nūl, lōs, mēn, sa, rūm, lēc, tus, ad, u, sus-  U U    -   -  -   -  - -   -  U  U  - U 	True
+	fēr, vēt, fu, mo, sis, o, li, do, ni, do, re, po, pi, nis -  -   - - U  U U U  U U U  U - U  	False
+Quīs nōn ēt viridēs  vūlgī solacīa  tinēas	Quis, non, ēt, vi, ri, dēs, vūl, gi, so, la, ci, a, ti, ne, as  -   -  -   U U -    -  -  U U -U   U -U 	True
+nōrit et ālbūrnōs  praedām puerīlibus hāmis	no, rit, et, āl, būr, nōs, prae, dām, pu, e, ri, li, bus, ha, mis - U  U  -  -  -      - -   UU - U U   - U  	True
+strīdēntēsque focīs  ōbsōnīā plebis  ālausas	stri, dēn, tēs, que, fo, cis, ōb, so, ni, ā, ple, bis, a, lau, sas   - -  -   U  U -   -  - --   U U   -  U    	True
+	tequ, īn, tēr, spe, ci, ēs, ge, mi, nās, ne, ut, rūmqu, et, ūt, rūm, que   -  -  -    U U-   U U -   UU     -  -  -  -   U 	False
+quī nēc dūm sālmō  nēc iām sālār ambiguūsque	qui, nēc, dūm, sāl, mo, nēc, jām, sa, lar, ām, big, wūs, que  -  -   -   -  -   -   -   - -  U  U  -   U	True
+āmbōrūm mediō  sario  īntērcēpte sub aevo	ām, bo, rūm, me, di, o, sa, ri, īn, tēr, cē, pte, sub, ae, vo-  - -   U U-   U U   -  -  -  U  U   - U 	True
+tū quōquē fluminēās īnter memōrande cōhortes	tu, quo, quē, flu, mi, ne, as, īn, tēr, me, mo, rān, de, co, hōr, tes -   -  -   U U --  -  U   U - U  U  - U     	True
+gōbio  nōn geminīs māiōr sine pōllice pālmis	go, bi, o, nōn, ge, mi, nīs, ma, jōr, si, ne, pōl, li, ce, pāl, mis - UU   -   U U -   - -   U U  -  U U  -  U  	True
+praepīnguis  teres  ōviparā cōngēstior ālvo	prae, pīn, guis, te, res, o, vi, pa, ra, cōn, gēs, ti, or, āl, vo   - -   -    U U   - U U -  -  -  UU  -  U	True
+prōpēxīquē iūbas imītātūs  gobiō  barbi	pro, pē, xi, que, ju, bas, i, mi, ta, tūs, go, bi, o, bār, bi  - - -  -  - U  U - - -    U U-   U    	True
+	Nūnc, pe, cus, ae, quo, reum, ce, lē, bra, be, re, mā, gne, si, lu, re -     U U   -  -  -    - -  U U U   -  U  U - U 	False
+quēm velut Āctaeō pērdūctūm tērgora olīvo	quēm, ve, lut, Āc, tae, o, pēr, dūc, tūm, tēr, gor, o, li, vo  -   U U  -   --  -  -  -   -  U   U - U	True
+āmnicolām dēlphīna reōr  sīc pēr freta māgnum	ām, ni, co, lām, dē, lphi, na, re, ōr, sīc, pēr, fre, ta, mā, gnum-  U U -   -   - U  U-    -   -    U U  -  U 	True
+lāberis ēt lōngī vīx cōrporis āgmina sōlvis	la, be, ris, ēt, lōn, gi, vīx, cōr, po, ris, āg, mi, na, sōl, vis - U U  -   -  -  -   -  U U  -  U U  -  U 	True
+	aut, bre, vi, būs, dē, prēn, sa, va, dis, a, ūt, flu, mi, nis, ūl, vis -    U U -   -  -  U  U U  U-    - U U  -  U  	False
+āt cūm trānquīllōs mōlīris in āmne meātus	āt, cūm, trān, quil, lōs, mo, li, ris, in, ām, ne, me, a, tus-   -    -   -  -   - - U  U  -  U  U- U  	True
+tē viridēs rīpae  tē caerula tūrba natāntum	te, vi, ri, dēs, ri, pae, te, cae, ru, la, tūr, ba, na, tān, tum -  U U -   -  -   -   - U U  -  U  U -  U  	True
+	te, li, qui, dae, mi, rān, tur, a, quae, dī, ffūn, di, tur, āl, ve, o -  U  U  -  - -  U  U   U   -  -  U U  -  -U	False
+	aes, tus, et, ēx, tre, mī, pro, cūr, rūnt, mār, gi, nē, flūc, tus -  U  U  -   - -   - -  -    -  - -   -  U  	False
+tālīs Ātlantiacō quōndām bāllēnā prōfundo	ta, lis, Āt, lān, tja, co, quōn, dām, bāl, le, nā, pro, fūn, do - -  -  U   U -   -  -   -  - -   - U    	True
+cūm vēntō mōtūve suō tēllūris ad ōras	cūm, vēn, to, mo, tu, ve, su, o, tēl, lu, ris, ad, o, ras -   -  -  - - U  U-  -  - U  U  - U 	True
+pēllitur  ēxclūsum ēxūndāt mare māgnaque sūrgūnt	pēl, li, tur, ēx, clus, ēx, ūn, dāt, ma, re, mā, gna, que, sūr, gūnt -  U U   -   -    - -  -   U U  -  U  U  -  -  	True
+aequōrā vicinīque timēnt dēcrēscere mōntes	ae, quo, ra, vi, ci, ni, que, ti, mēnt, dē, crēs, ce, re, mōn, tes -  - -  U U -  U  U -    -  -  U U  -  U  	True
+hīc tamen  hīc nōstrae mītīs bāllēna Mosēllae	hīc, ta, men, hīc, nōs, trae, mi, tīs, bāl, le, na, Mo, sēl, lae -   U U    -   -    -  - -   -  - U  U -   -	True
+ēxitiō procul ēst magnoquē honor ādditus āmni	ēx, i, ti, ō, pro, cul, ēst, mā, gno, que, ho, nor, ād, di, tus, ām, ni- U U-   U U  -    U  U  -  U U  -  U U  -  U 	True
+Iām liquidās spēctāsse viās ēt lūbrica pīsces	Jām, li, qui, dās, spēc, tās, se, vi, as, ēt, lū, bri, ca, pīs, ces -   U  U -    -  -  U  U-  -   -  U U  -  U 	True
+āgmina mūltiplicēsque satīs numerāsse catērvas	āg, mi, na, mūl, tī, pli, cēs, que, sa, tīs, nu, me, rās, se, ca, tēr, vas-  U U  -  U  U -   U  U -   U U -  U  U -  U  	True
+īndūcānt aliām spēctācula vītea pōmpam	īn, du, cānt, a, li, ām, spēc, ta, cu, la, vi, te, a, pōm, pam-  - -   U U-    -  - U U  - UU  -  U 	True
+sōllicitēntquē vāgōs Bāccheia mūnera vīsus	sōl, li, ci, tēn, tque, va, gōs, Bāc, che, ja, mu, ne, ra, vi, sus -  U U -    -  - -   -   U U  - U U  - U  	True
+	qua, sū, bli, mis, a, pēx, lōn, go, su, per, ār, du, ā, trāc, tu  -  -  - -  - -   -  U  U U  -  --   -  U	False
+ēt rupes ēt āprīca iugī flēxūsque sinūsque	ēt, ru, pes, et, āp, ri, ca, ju, gī, flē, xūs, que, sin, ūs, que-   U U  -  -  - U  U -   - -   U  U -   U	True
+vītībūs ādsūrgūnt nāturalīque theātro	vi, ti, bus, ād, sūr, gūnt, na, tu, ra, li, que, the, āt, ro - - -  -  -  -    - U U -  U   U-  U 	True
+Gaurānūm sīc ālma iugūm vīndēmia vēstit	Gau, ra, nūm, sic, āl, ma, ju, gūm, vīn, de, mi, a, vēs, tit  - - -   -  -  U  U -   -  - UU  -  U 	True
+ēt Rhodopēn prōpriōque nitēnt Pāngaea Lyaeo	ēt, Rho, do, pēn, prō, prjo, que, ni, tēnt, Pān, gae, a, Ly, ae, o-    U U -    -   -  U  U -    -   -U  U -U 	True
+sīc viret Īsmariūs super aequora Thrācia cōllis	sīc, vi, ret, Īs, ma, ri, ūs, su, per, ae, quo, ra, Thra, ci, a, cōl, lis -   U U  -  U U-   U U   -  U U    - UU  -  U  	True
+sīc mēā flāvēntēm pīngūnt vīneta Gārumnam	sīc, me, ā, fla, vēn, tēm, pīn, gūnt, vi, ne, ta, Ga, rūm, nam -   --   - -  -   -  -    - U U  - U     	True
+	sūm, mīs, quip, pe, ju, gīs, tēn, dēn, tis, in, ūl, ti, mā, cli, vi -  -    -  -  - -   -  -  U  U  -  - -   - U	False
+cōnseritūr viridī fluviālīs mārgo Lyaeo	cōn, se, ri, tūr, vi, ri, dī, flu, vi, a, līs, mār, go, Ly, ae, o -  U U -   U U -   U U- -   -  U  U -U 	True
+laeta operūm plēbēs fēstīnāntēsque colōni	laet, o, pe, rūm, ple, bēs, fēs, ti, nān, tēs, que, co, lo, ni  -   U U -    - -   -  - -  -   U  U - U	True
+vērtice nūnc sūmmō properānt  nūnc dēiuge dōrso	vēr, ti, ce, nūnc, sūm, mō, pro, pe, rānt, nūnc, de, ju, ge, dōr, so -  U U  -    -  -   U U -     -    - U U  -  U 	True
+cērtāntēs stolidīs clāmōribus  īnde viātor	cēr, tān, tēs, sto, li, dīs, cla, mo, ri, bus, īn, de, vi, a, tor -  -  -    U U -    - - U U   -  U  U- U 	True
+rīpārūm sūbiēcta terēns  hīnc nāvita lābēns	ri, pa, rūm, sūb, jēc, ta, te, rēns, hīnc, na, vi, ta, la, bēns - - -   -  -  U  U -     -    - U U  - -   	True
+prōbra canūnt sērīs cūltōribus  ādstrepit ōllis	prō, bra, ca, nūnt, se, rīs, cūl, to, ri, bus, ād, stre, pit, ōl, lis  -  U  U -    - -   -  - U U   -    U U  -  U 	True
+ēt rupes ēt sīlvā trēmēns ēt cōncavus āmnis	ēt, ru, pes, ēt, sīl, vā, tre, mēns, ēt, cōn, ca, vus, ām, nis-   U U  -   -  -   - -   -   -  U U  -  U  	True
+Nēc sōlōs hominēs dēlēctāt scaena locōrum	Nēc, so, los, ho, mi, nēs, de, lēc, tāt, scae, na, lo, co, rum -   - -   U U -   - -  -     - U  U - U  	True
+hīc ego et āgrēstēs Satyrōs ēt glauca tuēntes	hic, eg, et, āg, rēs, tēs, Sa, ty, ros, ēt, glau, ca, tu, ēn, tes -  U   U  -  -  -   U U -  -     - U  U-  U 	True
+Nāidas ēxtrēmīs crēdām cōncūrrere rīpis	Na, i, das, ēx, tre, mīs, cre, dām, cōn, cūr, re, re, ri, pis -U U  -   - -    - -   -  -  U U  - U  	True
+	cā, pri, pe, des, a, gi, tāt, cūm, lae, tā, pro, tēr, vi, a, Pa, nas -  U U U  U U -   -    - -   - -  UU  - U 	False
+īnsūltāntque vadīs trepidāsque sub āmne sorōres	īn, sūl, tān, tque, va, dīs, tre, pi, dās, que, sub, ām, ne, so, ro, res-  -  -    U  U -    U U -   U  U  -  U  U - U 	True
+tērrēnt  īndocilī pūlsāntēs vērbērē fluctum	tēr, rēnt, īn, do, ci, li, pūl, sān, tēs, vēr, be, rē, flūc, tum -  -    -  U U -  -  -  -   -  - -   U     	True
+saepe etiām mēdīīs fūrata e cōllibus ūvas	saep, e, ti, ām, me, di, īs, fu, rat, e, cōl, li, bus, u, vas  -   U U-   - --   - U   U  -  U U  - U 	True
+īntēr Ōreiadās Panopē fluviālis amīcas	īn, ter, O, re, ja, dās, Pa, no, pē, flu, vi, a, lis, a, mi, cas-  -  - U U -   U U -   U U- U  U - U 	True
+fūgīt lāscīvōs pāgānica nūmina Faunos	fu, gīt, lās, ci, vōs, pa, ga, ni, ca, nu, mi, na, Fau, nos - -   -  - -   - - U U  - U U   - U  	True
+dīcitur ēt  mediō cūm sōl stetit īgneus ōrbe	di, ci, tur, ēt, me, di, o, cūm, sōl, ste, tit, īg, neus, ōr, be - U U  -    U U-  -   -    U U  -   -  -  U 	True
+	ād, cōm, mu, nē, fre, tūm, Sa, ty, rōs, vī, tre, ās, que, so, ro, res-   -  - -   - -   U U -   -  --   U  U - U 	False
+cōnsōrtēs cēlēbrare chōrōs  cūm praebuit horas	cōn, sōr, tēs, ce, lē, bra, re, cho, rōs, cūm, prae, bu, it, ho, ras -  -  -   - -  U U   - -    -     U U-   U   	True
+sēcrētās hominūm coetū flāgrāntior aestus	sē, cre, tas, ho, mi, nūm, co, e, tū, flā, grān, ti, or, aes, tus -  - -   U U -   UU -   -  -  UU   -  U  	True
+tūne īnsūltāntēs sua pēr freta lūdere Nȳmphas	tun, īn, sūl, tān, tēs, su, a, pēr, fre, ta, lu, de, re, Nȳm, phas -   -  -  -  -   UU  -    U U  - U U  -   U 	True
+ēt Satyrōs mērsāre vadīs rudibūsque natāndi	ēt, Sa, ty, rōs, mēr, sa, re, va, dīs, ru, di, būs, que, na, tān, di-   U U -   -  - U  U -   U U -   U  U -  U	True
+pēr mediās ēxīre manūs  dūm lūbrica fālsi	pēr, me, di, as, ēx, i, re, ma, nūs, dūm, lū, bri, ca, fāl, si -   U U-  - - U  U -    -   -  U U  -  U	True
+	mēm, bra, pe, tūnt, li, qui, dōs, que, fa, vēnt, pro, cōr, po, rē, flūc, tus -   U  U -    U  U -   U  U -     -  -  - -   -  U  	False
+sēd nōn haec spēctāta ūllī nēc cōgnita vīsu	sēd, non, haec, spēc, tat, ūl, li, nēc, cō, gni, ta, vi, su -   -    -    -  -   -  -  -   -  U U  - U	True
+fās mihi sīt prō pārte loquī sēcrēta tegātur	fās, mi, hi, sīt, prō, pār, te, lo, qui, sē, crē, ta, te, ga, tur -   U U  -    -  -  U  U  -  -  - U  U - U 	True
+ēt cōmmīssa suis lateāt reverēntia rīvis	ēt, cōm, mīs, sa, su, is, la, te, āt, re, ve, rēn, ti, a, ri, vis-   -  -  U  U-   U U-   U U -  UU  - U  	True
+Īllā frūenda pālam specīēs  cūm glaucus ōpaco	Īl, lā, fru, ēn, da, pa, lām, spe, ci, ēs, cūm, glau, cus, o, pa, co-  -   -U  U  - U    U --    -     U U  - U  	True
+rēspōndēt cōllī fluviūs  frōndēre vidēntur	rē, spōn, dēt, cōl, lī, flu, vi, ūs, frōn, de, re, vi, dēn, tur -  -  -   -  -   U U-     -  - U  U -  U 	True
+flūmīnei laticēs ēt pālmite cōnsitus āmnis	flu, mi, nei, la, ti, ces, ēt, pāl, mi, te, cōn, si, tus, ām, nis  - -  -  U U -  -   -  U U  -  U U  -  U  	True
+quīs color īlle vadīs  sērās cūm prōpulit ūmbras	quis, co, lor, īl, le, va, dīs, se, rās, cūm, pro, pu, lit, ūm, bras  -   U U  -  U  U -    - -   -    - U U  -   U 	True
+Hēsperus ēt viridī pērfūndīt mōnte Mosēllam	Hēs, pe, rus, ēt, vi, ri, di, pēr, fūn, dīt, mōn, te, Mo, sēl, lam -  U U  -   U U -  -  -  -   -  U  U -  U  	True
+tōta natānt crīspīs iuga mōtibus ēt tremit ābsēns	to, ta, na, tānt, crīs, pīs, ju, ga, mo, ti, bus, ēt, tre, mit, āb, sēns - U  U -     -  -   U U  - U U  -    U U  -  -  	True
+pāmpinus ēt vītreis vīndēmia tūrget in ūndis	pām, pi, nus, ēt, vī, treis, vīn, de, mi, a, tūr, get, in, ūn, dis -  U U  -   -   -   -  - UU  -  U  U  -  U  	True
+ādnumerāt viridēs dērīsūs nāvita vītes	ād, nu, me, rāt, vi, ri, dēs, de, ri, sūs, na, vi, ta, vi, tes-  U U -   U U -   - - -   - U U  - U  	True
+nāvita caudiceō fluitāns super aequora lēmbo	na, vi, ta, cau, di, ce, ō, flu, i, tāns, su, per, ae, quo, ra, lēm, bo - U U   - U U-   UU -    U U   -  U U  -  U	True
+pēr mediūm  quā sēse āmnī cōnfūndit imāgo	pēr, me, di, ūm, qua, ses, ām, ni, cōn, fūn, dit, i, ma, go -   U U-     -  -   -  -  -  -  U  U - U	True
+cōllis et ūmbrārūm cōnfīnia cōnserit āmnis	cōl, lis, et, ūm, bra, rūm, cōn, fi, ni, a, cōn, se, rit, ām, nis -  U  U  -   - -   -  - UU  -  U U  -  U  	True
+	Haec, quo, que, quām, dūl, cēs, ce, lē, brānt, spēc, ta, cu, la, pōm, pas  -    U  U   -   -  -   - -  -     -  - U U  -  U  	False
+rēmipedēs mediō cērtānt cūm flūmine lēmbi	re, mi, pe, dēs, me, di, o, cēr, tānt, cūm, flu, mi, ne, lēm, bi - U U -   U U-  -  -    -    - U U  -  U	True
+ēt vārīos ineunt flēxūs viridēsque per ōras	ēt, va, ri, os, in, eunt, flē, xūs, vi, ri, dēs, que, per, o, ras-   - -U  U  -     - -   U U -   U  U  - U 	True
+strīngūnt āttōnsīs pūbēntiā gērmina prātis	strīn, gūnt, āt, tōn, sīs, pu, bēn, tja, gēr, mi, nā, pra, tis   -  -   -  -  -   - -   -  -  U U   - U  	True
+pūppibus ēt proris ālācrēs gēstīre magīstros	pūp, pi, bus, ēt, pro, ris, a, lā, crēs, gēs, ti, re, ma, gīs, tros -  U U  -    U U  - -  -   -  - U  U -   U 	True
+īmpūbēmque manūm super āmnica tērga vagāntem	īm, pu, bēm, que, ma, nūm, su, per, ām, ni, ca, tēr, ga, va, gān, tem-  - -   U  U -   U U  -  U U  -  U  U -  U 	True
+dūm spēctāt trānsīre diēm  sua sēria lūdo	dūm, spēc, tāt, trāns, i, re, di, ēm, su, a, se, ri, a, lu, do -    -  -    -  - U  U-    UU  - UU  - U	True
+	pōs, tha, bet, ēx, clu, dīt, ve, te, rēs, no, vā, gra, ti, a, cu, ras -   U U     -   - -   U U -   - -   - UU  - U  	False
+quālēs Cūmānō dēspēctat in aequore lūdos	qua, lēs, Cu, ma, no, dē, spēc, tat, in, ae, quo, re, lu, dos  - -   - - -  -  -  U  U   -  U U  - U 	True
+Lībēr  sūlphūrei cūm pēr iuga cōnsita Gauri	Li, bēr, sūl, phu, rei, cūm, pēr, ju, ga, cōn, si, ta, Gau, ri - -    -   -  -  -   -   U U  -  U U   - U	True
+pērque vapōriferī graditūr vīnēta Vesēvi	pēr, que, va, po, ri, fe, rī, gra, di, tūr, vi, ne, ta, Ve, se, vi -   U  U - U U -   U U -   - - U  U - U 	True
+cūm Vēnūs Āctiācīs Augūstī laeta triūmphis	cūm, Ve, nus, Āc, tja, cis, Au, gūs, ti, lae, tā, trjūm, phis -   - -  -   - -   - -  -   U U    -   U 	True
+lūdere lāscivos fēra proelia iūssit Amōres	lu, de, re, lās, ci, vōs, fe, rā, pro, e, li, a, jūs, sit, A, mo, res - U U  -  U U   - U   U- UU  -  U  U - U    	True
+quāliā Nīliācae clāssēs Lātiaeque trirēmes	quāl, ja, Nīl, ja, cae, clās, sēs, Lāt, jae, quē, tri, re, mes  -  -  -  -  -   -  -   -   -  U   U - U 	True
+sūbter Apōllineae gēssērūnt Leucados ārces	sūb, ter, A, pōl, li, ne, ae, gēs, se, rūnt, Leu, ca, dos, ār, ces -  U  U -  U U -  -  - -     - U U  -  U  	True
+aut Pōmpēiānī Mylasēna perīcula bēlli	aut, Pōm, pe, ja, ni, My, la, se, na, per, i, cu, la, bēl, li -   -  - - -  U U - U  U - U U  -  U	True
+Euboicae referūnt per Avērna sonāntia cūmbae	Eu, bo, i, cae, re, fe, rūnt, per, A, vēr, na, so, nān, ti, a, cūm, bae - UU  -  U U -    U  U -  U  U -  UU  -   - 	True
+īnnocuōs ratiūm pūlsūs pūgnāsque iocāntes	īn, no, cu, ōs, ra, ti, ūm, pūl, sūs, pū, gnās, que, jo, cān, tes-  U U-   U U-   -  -   -  -   U  U -  U 	True
+naumachiae Sīcūlo qualēs spēctānte Pelōro	nau, ma, chi, ae, Si, cu, lo, qua, lēs, spēc, tān, te, Pe, lo, ro  - U  U -  - - U   U -    -  -  U  U - U	True
+caerūleus viridī reparāt sub imāgine pōntus	cae, ru, leus, vi, ri, di, re, pa, rāt, sub, i, ma, gi, ne, pōn, tus  - -  -   U U -  U U -   U  U - U U  -  U  	True
+nōn aliām speciēm petulāntibus āddit ephēbis	non, a, li, ām, spe, ci, ēm, pe, tu, lān, ti, bus, ād, dit, ep, he, bis -  U U-    U U-   U U -  U U  -  U  U  - U 	True
+pūbērtasqūe āmnīs ēt pīctī rōstra phasēli	pu, bēr, tāsqu, ām, nis, ēt, pīc, ti, rōs, tra, pha, se, li - -     -  -  -  -   -  -  -   U   U - U 	True
+hōs Hyperīoniō cūm sōl pērfūderit aestu	hos, Hy, pe, ri, o, ni, o, cūm, sōl, pēr, fu, de, rit, aes, tu -   U U -U U-  -   -   -  - U U   -  U 	True
+rēddīt nautālēs vītrēō sūb gurgitē formas	rē, ddīt, nau, ta, lēs, vī, tre, o, sūb, gūr, gi, te, fōr, mas -  -    - - -   -  --  -   U  U -  U    	True
+ēt redigīt pāndās īnvērsī cōrporis ūmbras	ēt, red, i, gīt, pān, das, īn, vēr, si, cōr, po, ris, ūm, bras-   U U -   -  -  -  -  -  -  U U  -   U  	True
+	ūtqu, a, gi, lēs, mo, tūs, dē, xtra, lae, va, quē, fre, quēn, tānt   -  U U -   - -   -   -   - -  -   -  -  -  	False
+ēt cōmmūtātīs āltērnānt pōndera rēmis	ēt, cōm, mu, ta, tis, āl, tēr, nānt, pōn, de, ra, re, mis-   -  - - -  -  -  -    -  U U  - U  	True
+ūnda refērt aliōs simulācra ūmēntia nautas	ūn, da, re, fērt, a, li, ōs, si, mu, lācr, u, mēn, ti, a, nau, tas-  U  U -   U U-   U U -    - -  UU   - U  	True
+īpsa suō gaudēt simulāmine nautica pūbes	īp, sa, su, o, gau, dēt, si, mu, la, mi, ne, nau, ti, ca, pu, bes-  U  U-   - -   U U - U U   - U U  - U  	True
+fāllācēs flūvīo mirāta redīre figūras	fāl, la, cēs, flu, vi, o, mi, ra, ta, red, i, re, fi, gu, ras -  - -    - -U  U - U  U - U  U - U  	True
+sīc  ubi cōmpositōs ōstēntātūra capīllos	sic, u, bi, cōm, po, si, tos, ōs, tēn, ta, tu, ra, ca, pīl, los -   U U  -  U U -  -  -  - - U  U -  U 	True
+(cāndēntēm lātē speculi ēxplōrāntis honōrem	cān, dēn, tēm, la, tē, spe, cul, ēx, plo, rān, tis, ho, no, rem  -  -  -   - -   U U   -   - -  U   U - U 	True
+cūm prīmūm cārae nūtrīx ādmōvit alūmnae)	cūm, pri, mūm, ca, rae, nū, trīx, ād, mo, vit, a, lūm, nae -    - -   -  -  -  -  -  - U  U -   U 	True
+laeta īgnōrātō fruitūr vīrgūncula lūdo	laet, īg, no, ra, tō, fru, i, tūr, vīr, gūn, cu, la, lu, do  -   -  - - -   UU -   -  -  U U  - U	True
+gērmānaeque putāt fōrmām spēctāre puēllae	gēr, ma, nae, que, pu, tāt, fōr, mām, spēc, ta, re, pu, ēl, lae -  -  -  U  U -   -  -    -  - U  U-   - 	True
+ōscula fūlgēntī dāt nōn referēnda metāllo	ōs, cu, la, fūl, gēn, ti, dāt, nōn, re, fe, rēn, da, me, tāl, lo-  U U  -  -  -  -   -   U U -  U  U -  U	True
+aut fīxās praetēmptat acūs āūt frontis ād oram	aut, fī, xās, prae, tēm, ptat, ac, us, a, ūt, frōn, tis, ad, o, ram -   - -     - -   U  U -  --    U  U  -  U   	True
+vībrātōs cāptāt digitīs ēxtēndērē crines	vī, bra, tōs, cā, ptāt, di, gi, tis, ēx, tēn, de, rē, cri, nes -  - -   -  -   U U -  -  -  - -   U    	True
+tālis ad ūmbrārūm lūdībria nautica pūbes	ta, lis, ad, ūm, bra, rūm, lu, dī, bri, a, nau, ti, ca, pu, bes - U  U  -   - -   - -  UU   - U U  - U 	True
+āmbīguis fruitūr vērī fālsīque figūris	ām, big, wis, fru, i, tūr, ve, ri, fāl, si, que, fi, gu, ris-  -  -    UU -   - -  -  -  U  U - U  	True
+Iām vēro āccēssūs facilēs quā rīpa minīstrat	Jām, ver, āc, cēs, sūs, fa, ci, lēs, qua, ri, pa, mi, nīs, trat -   -   -  -  -   U U -    -  - U  U -   U  	True
+scrūtātūr toto pōpūlātrīx tūrbā prōfundo	scru, ta, tūr, to, to, po, pu, lā, trīx, tūr, bā, pro, fūn, do   - - -   U U  - - -  -   -  -   - U   	True
+heu male dēfēnsōs pēnētrālī fluminē pisces	heu, ma, le, de, fēn, sōs, pe, nē, tra, lī, flu, mi, ne, pīs, ces  -  U U  - -  -   - -  - -   U U -  U     	True
+	hīc, me, di, ō, pro, cul, ām, nē, tra, hēns, u, mēn, ti, a, li, na -   U U-   U U  -  -   - -   - -  UU  - U	False
+nōdōsīs dēcēptā plāgīs ēxaminā verrit	no, do, sīs, de, cē, ptā, pla, gis, ēx, a, mi, na, vēr, rit - - -   - -  -   - -  - U U -  U     	True
+āst hīc  trānquillo quā labitūr āgmīnē flūmen	āst, hīc, trān, quil, lo, qua, la, bi, tur, āg, mi, nē, flu, men-    -     -   U  U   -  U U -  -  - -   - U  	True
+dūcīt cōrtīceis fluitāntia rētia sīgnis	du, cīt, cōr, ti, ceis, flu, i, tān, ti, a, re, ti, a, sī, gnis - -   -  -  -    UU -  UU  - UU  -  U  	True
+īlle autēm scopulīs dēiēctās prōnus in ūndas	īll, au, tēm, sco, pu, līs, de, jēc, tās, pro, nus, in, ūn, das-     - -    U U -   - -  -    - U  U  -  U 	True
+īnclīnāt lēntae cōnvēxa cacūmina vīrgae	īn, cli, nāt, lēn, tae, cōn, vē, xa, ca, cu, mi, na, vīr, gae-   - -   -   -  -  - U  U - U U  -   - 	True
+īndūctōs ēscīs iaciēns lētālibus hāmos	īn, dūc, tos, ēs, cīs, ja, ci, ēns, le, ta, li, bus, ha, mos-  -  -  -  -   U U-    - - U U   - U  	True
+quōs īgnārā dōlī pōstquam vagā turba nātantum	quos, īg, na, ra, do, li, pōs, tquām, va, ga, tūr, ba, na, tān, tum  -  -  - -  - -  -    U   U -  U  U  - U    	True
+rīctibus īnvāsīt patulaeque per īntima fauces	rīc, ti, bus, īn, va, sīt, pa, tu, lae, que, per, īn, ti, ma, fau, ces -  U U  -  - -   U U  -  U  U  -  U U   - U 	True
+sēra ōccūltātī sēnsērūnt vūlnera fērri	ser, ōc, cūl, ta, ti, sē, nse, rūnt, vūl, ne, ra, fēr, ri -   -  -  - -  -  - -    -  U U  -  U 	True
+	dūm, tre, pi, dānt, sub, it, īn, di, ci, ūm, crīs, po, quē, tre, mo, ri -    U U -     U U  -  U U-    -  -  -   - - U	False
+vībrāntīs saetae nūtāns cōnsēntit harūndo	vī, brān, tīs, sae, tae, nu, tāns, cōn, sēn, tit, ha, rūn, do -  -  -    -  -  - -    -  -  U   U -  U 	True
+	nēc, mor, et, ēx, cūs, sām, stri, dēn, ti, vēr, be, rē, prae, dam -   U   U  -  -  -     - -  -  -  - -    - U 	False
+dēxter in ōblīquūm rāptāt puer  ēxcipit īctum	dē, xter, in, ōb, li, quūm, rā, ptāt, pu, er, ēx, ci, pit, īc, tum -  U  U  -  -  -   -  -   UU   -  U U  -  U 	True
+	spi, ri, tus, ūt, rā, ptīs, quōn, dām, per, in, a, nē, fla, gēl, lis  - U U   -   -  -    -  -   U  U U -   - -  U 	False
+aurā crēpāt mōtoqūe ādsibilāt aerē ventus	au, rā, cre, pāt, mo, toqu, ād, si, bi, lat, ae, re, vēn, tus - -   - -   -   -  -  U U -   - -  U     	True
+ēxūltānt ūdae super ārida sāxa rapīnae	ēx, ūl, tānt, u, dae, su, per, a, ri, da, sā, xa, ra, pi, nae- -  -   -  -  U U  - U U  - U  U -  -	True
+lūcīfērique pāvēnt lētaliā tela dīei	lu, ci, fe, ri, que, pa, vēnt, le, ta, li, a, te, la, di, ei - - - U  U  - -    - U U-  U U  - - 	True
+cūique sūb amne sūō mānsit vigōr  aerē nostro	cu, i, que, sub, ām, ne, su, o, mān, sīt, vi, gor, ae, re, nōs, tro -U  U  -  U  U  --  -  U   U -    - -  U    	True
+sēgnīs ānhelatīs vītām cōnsūmit in auris	sē, gnis, an, he, la, tīs, vi, tām, cōn, su, mit, in, au, ris -  -  -  U U -   - -   -  - U  U   - U  	True
+	jām, pi, ger, īn, va, li, do, vī, bra, tūr, cōr, po, rē, plau, sus -   U U  -  U U U  -  - -   -  - -    - U  	False
+	tōr, pi, da, sū, pre, mōs, pa, ti, tūr, jām, cau, dā, tre, mo, res -  U U  -  - -   U U -   -    - -   - - U 	False
+nēc cōeunt rīctūs  haustās sed hiātibus auras	nēc, co, eunt, rīc, tus, haus, tās, sed, hi, a, ti, bus, au, ras -   - -    -  -     -  -   U   U- U U   - U   	True
+rēddīt mōrtiferōs ēxpīrāns brānchīā flatus	rē, ddīt, mōr, ti, fe, ros, ēx, pi, rāns, brān, chi, ā, fla, tus -  -   -  U U -  -  - -     -   --   U    	True
+sīc  ubi fābrīlēs ēxērcēt spīritus īgnes	sic, u, bi, fā, bri, les, ēx, ēr, cēt, spi, ri, tus, īg, nes -   U U  -  - -  - -  -    - U U  -  U  	True
+āccipit āltērnō cohibētque forāmine vēntos	āc, ci, pit, āl, tēr, no, co, hi, bēt, que, fo, ra, mi, ne, vēn, tos-  U U  -  -  -  U U -   U  U - U U  -  U 	True
+lānēā fagineis ādlūdēns pārma cavērnis	la, ne, a, fa, gi, neis, ād, lu, dēns, pār, ma, ca, vēr, nis - --  U U  -  -  - -    -  U  U -  U  	True
+vīdi egomēt quōsdām leti sūb fīnē trēmēntes	vid, e, go, mēt, quōs, dām, le, ti, sūb, fi, nē, tre, mēn, tes -   U U -    -  -   U U  -   - -   - -  U 	True
+cōllēgīsse animās  mōx īn sūblīme citātos	cōl, le, gīss, a, ni, mās, mōx, īn, sū, bli, me, ci, ta, tos -  - -    U U -    -  -   -  - U  U - U 	True
+cērnua sūbiēctūm praecēps dare cōrpora in āmnem	cēr, nu, a, sūb, jēc, tūm, prae, cēps, da, re, cōr, por, in, ām, nem -  UU  -  -  -     - -    U U  -  U   U  -  U  	True
+dēspērātārūm pōtiēntēs rūrsus aquārum	dē, spe, ra, ta, rūm, pōt, jēn, tēs, rūr, sus, a, qua, rum -  - - - -   -  -  -   -  U  U  - U  	True
+quōs īmpōs dāmnī puer īncōnsūltus ab ālto	quos, īm, pōs, dām, ni, pu, er, īn, cōn, sūl, tus, ab, āl, to  -  -  -   -  -  UU  -  -  -  U  U  -  U	True
+īmpetit ēt stolidō cāptāt prēnsāre natātu	īm, pe, tit, ēt, sto, li, do, cā, ptāt, prēn, sa, re, na, ta, tu-  U U  -    U U -  -  -    -  - U  U - U 	True
+sīc Ānthēdōniūs Boeōtiā pēr freta Glaucus	sic, Ān, the, dōn, jūs, Boe, ōt, ja, pēr, fre, tā, Glau, cus -  -   - -  -    --  -  -    U U    - U  	True
+grāmina gūstātū postqūam ēxitiālia Cīrces	gra, mi, na, gūs, ta, tu, pōstqu, ēx, i, ti, a, li, a, Cīr, ces  - U U  -  - -      -   - U U- UU  -  U 	True
+ēxpērtūs cārptās moribūndīs pīscibus hērbas	ēx, pēr, tūs, cār, ptās, mo, ri, būn, dīs, pīs, ci, bus, hēr, bas-  -  -   -   -   U U -  -   -  U U   -  U 	True
+sūmpsīt  Cārpathiūm sūbiīt novus āccola pōntum	sūm, psīt, Cār, pa, thi, ūm, sūb, jīt, no, vus, āc, co, la, pōn, tum -   -    -  U  U-   -  -   U U  -  U U  -  U  	True
+īlle hāmīs ēt rēte potēns  scrūtātor opērti	īll, ha, mis, ēt, re, te, po, tēns, scru, ta, tor, o, pēr, ti-     - -  -   - U  U -       - - U  U -  U	True
+Nēreos  aequoreām solitūs cōnvērrere Tēthyn	Ne, re, os, ae, quo, re, ām, so, li, tūs, cōn, vēr, re, re, Te, thyn - UU    -  U U-   U U -   -  -  U U  -  U  	True
+īntēr cāptīvās fluitāvīt praedo catērvas	īn, tēr, cā, pti, vās, flu, i, ta, vīt, prae, do, ca, tēr, vas-  -   -  - -    UU - -     - U  U -  U  	True
+Tāliā dēspēctānt lōngō pēr caerula trāctu	Tāl, ja, dē, spēc, tānt, lōn, go, pēr, cae, ru, lā, trāc, tu -  -  -  -  -    -  -  -    - U U   -  U	True
+pēndēntēs sāxīs īnstāntī cūlmine vīllae	pēn, dēn, tēs, sā, xis, īn, stān, ti, cūl, mi, ne, vīl, lae -  -  -   - -  -   -  -  -  U U  -   U 	True
+quās mediūs dirimīt sinuōsīs flēxibus ērrāns	quās, me, di, ūs, di, ri, mīt, sin, u, o, sīs, flē, xi, bus, ēr, rāns  -   U U-   U U -   U U- -    - U U  -  -  	True
+āmnis  et āltērnās cōmūnt praetōria rīpas	ām, nis, et, āl, tēr, nās, com, ūnt, prae, to, ri, a, ri, pas-  U   U  -  -  -   - -      - - UU  - U  	True
+Quīs modo Sēstiacūm pelagūs  Nepheleidōs Hēlles	Quis, mo, do, Sēs, ti, a, cūm, pe, la, gūs, Nep, he, lei, dos, Hēl, les  -   U U  -  UU -   U U -    U  U  - -   -  U 	True
+aequōr  Ābydenī frētā quis mirētur ephēbi	ae, quor, A, by, de, nī, fre, ta, quis, mi, re, tur, ep, he, bi -  -   - U U -   - -   U   U - U  U  - U 	True
+quīs Chālcēdōnīō cōnstrātum āb litorē pontum	quis, Chāl, ce, do, ni, o, cōn, strat, āb, li, to, re, pōn, tum  -    -  - - --  -    -    -   U U -  U     	True
+rēgis opūs māgnī  mediīs eurīpus ubi ūndis	re, gis, o, pūs, mā, gni, me, di, is, eu, ri, pus, ub, ūn, dis - U  U -   -  -   U U-   - - U  U   -  U 	True
+Eurōpaeqūe Asiaeque vetāt cōncūrrere tērras	Eu, ro, paequ, A, si, ae, que, ve, tāt, cōn, cūr, re, re, tēr, ras - -    -  U U -  U  U -   -  -  U U  -  U  	True
+nōn hīc dīrā frēti rabīēs  nōn saeva fūrentum	non, hīc, di, rā, fre, ti, ra, bi, ēs, nōn, sae, va, fu, rēn, tum -   -   - -   - U  U --    -    U U  - U    	True
+prōeliā caurōrum  licēt hīc cōmmerciā līnguae	pro, e, li, a, cau, ro, rūm, li, cet, hīc, cōm, mēr, ci, a, līn, guae  -U U-   - - U    U -   -   -  U  U-  -     	True
+iūngere et āltērnō sērmōnēm tēxere pūlsu	jūn, ger, et, āl, tēr, no, sē, rmo, nēm, tē, xe, re, pūl, su -  U   U  -  -  -  -  - -   - U U  -  U 	True
+blānda salūtiferās pērmīscēnt lītora vōces	blān, da, sa, lu, ti, fe, rās, pēr, mīs, cēnt, li, to, ra, vo, ces  -  U  U - U U -   -  -  -    - U U  - U  	True
+ēt vōcēs ēt paene manūs  resonāntia ūtrīmque	ēt, vo, ces, ēt, pae, ne, ma, nūs, re, so, nāntj, ūt, rīm, que-   - -  -    - U  U -    U U -     -  -   U	True
+	vēr, ba, re, fērt, cōn, cūr, rēns, flūc, ti, bus, ec, ho -  U  U -    -  -  -     -  U U  -  U 	False
+Quīs potis īnnumerōs cultusquē habitūsque retēxens	Quis, po, tis, īn, nu, me, rōs, cūl, tūs, que, ha, bi, tūs, que, re, tē, xēns  -   U U  -  U U -   U  U   -  U U -   U  U - U  	True
+	pān, de, re, tēc, to, ni, cās, pēr, sīn, gu, lā, prae, di, a, fōr, mas -  U U  -  U U -   -   -  - -    - UU  -  U  	False
+nōn hōc spērnat opūs Gōrtȳnius āliger  aedis	non, hōc, spēr, nat, o, pūs, Gōr, ty, ni, us, a, li, ger, ae, dis -   -    -  U  U -   -  - UU  - U U    - U 	True
+cōnditor Euboicae  cāsūs quēm fīngere in auro	cōn, di, tor, Eu, bo, i, cae, ca, sūs, quēm, fīn, ger, in, au, ro -  U U   - UU  -   - -    -   -  U   U   - U	True
+cōnantem Īcariōs patriī pepulēre dolōres	con, ān, tem, I, ca, ri, ōs, pā, tri, i, pe, pu, le, re, do, lo, res - U  U  - U U-   U  U-  U U - U  U - U  	True
+nōn Philo Cēcropiūs  nōn quī laudātus ab hōste	nōn, Phi, lo, Cē, cro, pi, ūs, nōn, qui, lau, da, tus, ab, hōs, te -    U U  -  U U-    -    -   - - U  U   -  U	True
+clāra Syrācosiī trāxīt cērtāmina bēlli	cla, ra, Sy, ra, co, si, ī, trā, xīt, cēr, ta, mi, na, bēl, li  - U  U - U U-   - -   -  - U U  -  U 	True
+fōrsan et īnsīgnēs hominumqūe operūmque labōres	fōr, san, et, īn, sī, gnes, ho, mi, nūmqu, o, pe, rūm, que, la, bo, res -  U  U  -  -  -   U U    -  U U -   U  U - U 	True
+hīc habuit decimō celebrāta volūmine Mārcei	hic, ha, bu, it, de, ci, mo, ce, lē, bra, ta, vo, lu, mi, ne, Mār, cei -   U U-   U U -  U U  - U  U - U U  -   U	True
+hēbdōmās  hīc clāri viguēre Menēcratis ārtes	hēb, do, mas, hīc, cla, ri, vig, we, re, Me, nē, cra, tis, ār, tes -  - -    -    - U  U  - U  U -  U U  -  U 	True
+atqūe Ephesī spēctāta manūs vel in ārce Minērvae	ātqu, Ep, he, sī, spēc, ta, ta, ma, nūs, vel, in, ār, ce, Mi, nēr, vae   -  U  U -   -  - U  U -   U  U  -  U  U -   -	True
+Īctīnūs  magicō cui nōctua pērlita fūco	Īc, ti, nūs, ma, gi, co, cui, nōc, tu, a, pēr, li, ta, fu, co-  - -    U U -   -  -  UU  -  U U  - U	True
+ādlicit ōmne genūs volucrēs perimītque tuēndo	ād, li, cit, ōm, ne, ge, nūs, vo, lū, crēs, per, i, mīt, que, tu, ēn, do-  U U  -  U  U -   U U  -   U U -   U  U-  U 	True
+cōnditor hīc fōrsān fuerīt Ptolomāidos aulae	cōn, di, tor, hīc, fōr, sān, fu, e, rīt, Pto, lo, ma, i, dos, au, lae -  U U   -   -  -   UU -    U U -U U   -  -	True
+	Di, no, cha, rēs, quā, dra, ta, c, īn, fās, ti, gi, a, con, o - U  U -     -  U U     -   -  U U-  U U	False
+sūrgīt īpsa suās cōnsūmīt pȳramis ūmbras	sūr, git, īp, sa, su, ās, cōn, su, mīt, py, ra, mis, ūm, bras -  -  -  U  U-   -  - -   - U U  -   U  	True
+iūssūs ōb īncēsti qui quōndām foedus amōris	jūs, sus, ob, īn, cēs, ti, qui, quōn, dām, foe, dus, a, mo, ris -  -  -  -  -  U   U   -  -    - U  U - U 	True
+Ārsīnoen Phariī sūspēndit in aerē tēmpli	Ār, si, noen, Pha, ri, i, sūs, pēn, dit, in, ae, re, tēm, pli-  -  -    U U-  -  -  U  U   - -  -   U 	True
+spīrat enīm tēctī tēstūdine vīrus achātes	spi, rat, en, īm, tēc, ti, tēs, tu, di, ne, vi, rus, ac, ha, tes  - U  U -   -  -  -  - U U  - U  U  - U 	True
+ādflātāmquē trāhīt fērrātō crine pūellam	ād, fla, tām, quē, tra, hīt, fēr, ra, tō, cri, ne, pu, ēl, lam-   - -   -   - -   -  - -   U U  -U     	True
+Hōs ērgo aut hōrūm sīmīlēs ēst crederē dignum	Hos, ērg, aut, ho, rūm, si, mi, les, ēst, cre, de, re, dī, gnum -  -     -   - -   - - -  -     U U -  U    	True
+Bēlgārum īn tērrīs scaenās posuisse domōrum	Bēl, gar, īn, tēr, rīs, scae, nās, po, su, is, se, do, mo, rum -  -    -   -  -     - -   U U-  U  U - U  	True
+mōlītōs cēlsās fluviī decorāmina vīllas	mo, li, tōs, cēl, sās, flu, vi, i, de, co, ra, mi, na, vīl, las - - -   -  -    U U-  U U - U U  -  U  	True
+haec ēst nātūrā sūblīmis in āggere sāxi	haec, ēst, na, tu, ra, sū, bli, mis, in, āg, ge, re, sā, xi  -  -    - - -  -  - U  U  -  U U  - U 	True
+haec prōcūrrēntīs fūndātā crēpidinē rīpae	haec, pro, cūr, rēn, tīs, fūn, da, tā, cre, pi, di, ne, ri, pae  -    - -  -  -   -  - -   - U U -  -    	True
+haec refugīt cāptūmque sinū sibi vīndicat āmnem	haec, re, fu, gīt, cā, ptūm, que, sin, u, si, bi, vīn, di, cat, ām, nem  -   U U -   -  -   U  U -  U U  -  U U  -  U  	True
+īlla tenēns cōllēm  quī plūrimus īmminet āmni	īl, la, te, nēns, cōl, lēm, qui, plu, ri, mus, īm, mi, net, ām, ni-  U  U -    -  -     -   - U U  -  U U  -  U 	True
+ūsūrpāt facilēs pēr cūlta  per āspera vīsus	u, sūr, pāt, fa, ci, lēs, pēr, cūl, ta, per, ās, pe, ra, vi, sus- -  -   U U -   -   -  U   U  -  U U  - U 	True
+ūtque suis fruitūr dīvēs speculātio tērris	ūt, que, su, is, fru, i, tūr, di, vēs, spe, cu, la, ti, o, tēr, ris-   U  U-    UU -   - -    U U - UU  -  U  	True
+quīn ētiām riguis hūmili pēdē cōndītā pratis	quin, ēt, jām, rig, wis, hu, mi, li, pe, de, cōn, di, tā, pra, tis  -  -  -   U  U   - U U  - -  -  - -   U   	True
+cōmpēnsāt cēlsī bōnā nātūralia mōntis	cōm, pēn, sāt, cēl, si, bo, na, na, tu, rāl, ja, mōn, tis -  -  -   -  -  - -  - - U  U  -  U 	True
+sūblīmīque mināns īrrūmpit in aethera tēcto	sū, bli, mi, que, mi, nāns, īr, rūm, pit, in, ae, the, ra, tēc, to -  - -  U  U -   -  -  U  U   -  U U  -  U 	True
+ōstēntāns āltām  Pharos ūt Mēmphītica  tūrrim	ōs, tēn, tāns, āl, tām, Pha, ros, ūt, Mēm, phi, ti, ca, tūr, rim-  -  -   -  -     U U  -   -   - U U   -  U  	True
+huic prōprīūm clausōs cōnsaeptō gurgitē pisces	huic, prō, pri, ūm, clau, sōs, cōn, sae, pto, gūr, gi, te, pīs, ces  -    -  --     - -   -   -  -  U  U -  U    	True
+āprīcās scopulōrum īntēr cāptāre novāles	āp, ri, cās, sco, pu, lor, īn, tēr, cā, pta, re, no, va, les-  - -    U U -    -  -   -  - U  U - U  	True
+haec sūmmīs īnnīxa iugīs lābēntia sūbter	haec, sūm, mis, īn, nī, xa, ju, gīs, la, bēn, ti, a, sūb, ter  -   -  -  -  - U  U -   - -  UU  -  U 	True
+flūmīnā dēspēctū iām caligānte tuētur	flu, mi, na, dē, spēc, tu, jām, ca, li, gān, te, tu, e, tur  - - -  -  -  -  -   U U -  U  U- U  	True
+ātria quīd memorēm viridāntibus ādsita prātis	āt, ri, a, quid, me, mo, rēm, vi, ri, dān, ti, bus, ād, si, tā, pra, tis-  UU   -   U U -   U U -  U U  -  U U   - U  	True
+īnnumerīsque supēr nītēntia tēcta colūmnis	īn, nu, me, rīs, que, su, pēr, ni, tēn, ti, a, tēc, ta, co, lūm, nis-  U U -   U  U -   - -  UU  -  U  U -  U  	True
+quīd quae flumīnea sūbstrūctā crēpīdine fūmānt	quid, quae, flu, mi, ne, a, sūb, strūc, tā, cre, pi, di, ne, fu, mānt  -     U   U - UU  -    -  -   - - U U  - -  	True
+bālnea  fērvēntī cūm Mūlciber haustus opērto	bāl, ne, a, fēr, vēn, ti, cūm, Mūl, ci, ber, haus, tus, o, pēr, to -  UU   -  -  -  -   -  U U    -  U  U -  U	True
+vōlvit anhēlātās tectorīā pēr cāvā flammas	vōl, vit, an, he, la, tās, tēc, to, ri, a, pēr, ca, vā, flām, mas -  U  U  - - -   U  U --  -   - -   U     	True
+īnclūsūm glomerāns aestū spīrānte vapōrem	īn, clu, sūm, glo, me, rāns, aes, tū, spi, rān, te, va, po, rem-   - -    U U -    -  -   - -  U  U - U  	True
+vīdī ego dēfēssōs mūltō sūdōre lavācri	vīd, e, go, de, fēs, sōs, mūl, tō, sū, dō, re, la, vā, cri -   U U  - -  -   -  -  - - U  U -  U	True
+fāstīdīsse lacūs ēt frīgora pīscīnārum	fās, ti, dīs, se, la, cus, ēt, fri, go, ra, pīs, ci, na, rum -  - -  U  U -  -    - U U  -  - - U  	True
+ūt vīvīs fruerēntur aquīs  mōx āmne refōtos	ūt, vi, vīs, fru, e, rēn, tur, a, quis, mōx, ām, ne, re, fo, tos-   - -    UU -  U  U  -    -  -  U  U - U 	True
+plaudēntī gēlīdūm flūmen pepūlisse nātatu	plau, dēn, ti, ge, li, dūm, flu, mēn, pe, pu, līs, se, na, ta, tu   - -  -  - - -    - U   U - U  U  - U   	True
+quōd sī cūmānīs hūc ādforet hōspes ab ōrīs	quōd, sī, cu, ma, nis, hūc, ād, fo, ret, hōs, pes, ab, ō, rīs  -   -  - - -   -  -  U U   -  U  U  - - 	True
+crēderet Euboicās simulācra ēxīlia Bāias	cre, de, ret, Eu, bo, i, cās, si, mu, lācr, ēx, i, li, a, Ba, jas  - U U   - UU -   U U -    - - UU  - U 	True
+hīs dōnāsse locīs  tāntūs cūltūsque nitōrque	hīs, do, nās, se, lo, cīs, tān, tūs, cūl, tūs, que, ni, tōr, que -   - -  U  U -    -  -   -  -   U  U -   U	True
+ādlicit ēt nūllūm parit ōblēctātio lūxum	ād, li, cit, ēt, nūl, lūm, pa, rit, ōb, lēc, ta, ti, o, lū, xum-  U U  -   -  -   U U  -  -  - UU  - U  	True
+	Sēd, mi, hi, qui, tān, dēm, fi, nīs, tu, ā, glau, cā, flu, ēn, ta -   U U   U  -  -   - -   --    - -   --  U	False
+dīcere dīgnāndūmque marī memorāre Mosēllam	di, ce, re, dī, gnān, dūm, que, ma, ri, me, mo, ra, re, Mo, sēl, lam - U U  -  -  -   U  U -  U U - U  U -  U  	True
+īnnumerī quōd tē dīvērsa per ōstia lātē	īn, nu, me, ri, quōd, tē, dī, vēr, sa, per, ōs, ti, a, lā, tē-  U U -   -   -  - -  U  U  -  UU  - -	True
+īncūrrūnt āmnēs  quāmquām dīffērre meātus	īn, cūr, rūnt, ām, nēs, quām, quām, dī, ffēr, re, me, a, tus-  -  -   -  -     -   -   -  -  U  U- U 	True
+pōssēnt  sēd celerānt īn tē cōnsūmere nōmen	pōs, sēnt, sēd, ce, le, rānt, īn, te, cōn, su, me, re, no, men -  -     -   U U -   -   -  -  - U U  - U  	True
+namqūe ēt Prōmēae Nēmēsaeqūe ādiuta mēatu	nāmqu, ēt, Pro, me, ae, Ne, me, saequ, ād, ju, ta, me, a, tu    -  -    - - -  - -    -  -  U U  -U  	True
+Sūra tuās properāt nōn dēgener īre sub ūndas	Su, ra, tu, ās, pro, pe, rāt, nōn, de, ge, ner, i, re, sub, ūn, das - U  U-    U U -   -   - U U  - U  U  -  U  	True
+	Sur, īn, tēr, cē, ptīs, ti, bī, gra, ti, fi, ca, tā, flu, ēn, tis -   -  -  -  -   - -   U U U U -   --  U  	False
+nōbīliūs pērmīxtā tūō sūb nominē  quam si	no, bīl, jūs, pēr, mīx, ta, tu, o, sūb, no, mi, ne, quām, si - -  -   -  -  -  --  -   U U -    U    	True
+īgnōrāndā pātrī cōntenderēt ostiā Ponto	īg, no, rān, da, pā, tri, cōn, tēn, de, ret, ōs, ti, a, Pōn, to-  - -  -  -  -  -  U  U -  U  U-  U    	True
+	te, ra, pi, dūs, Cēl, bīs, te, mār, mo, rē, cla, rus, E, rū, bris -  U U -   -  -    -  -  - -   - U  U -  U 	False
+fēstīnānt famulīs quām prīmum ādlāmbere lȳmphis	fēs, ti, nānt, fa, mu, līs, quām, prim, ād, lām, be, re, lȳm, phis -  - -    U U -    -    -    -  -  U U  -   U  	True
+	no, bi, li, būs, Cēl, bīs, ce, lē, bra, tūs, pīs, ci, bus, īl, le - U U -   -  -   - -  - -   -  U U   -  U	False
+praecipitī tōrquēns cereālia sāxa rotātu	prae, ci, pi, ti, tōr, quēns, ce, re, a, li, a, sā, xa, ro, ta, tu   - U U -  -   -    U U- UU  - U  U - U	True
+strīdēntēsquē trāhēns pēr leviā marmorā serras	stri, dēn, tēs, quē, tra, hēns, pēr, le, vi, a, mār, mo, ra, sē, rras   - -  -   -   - -    -   U U-  U  U -  U    	True
+audīt pērpetuōs rīpa ēx ūtrāque tumūltus	au, dīt, pēr, pe, tu, ōs, rip, ēx, ūt, ra, que, tu, mūl, tus - -   -  U U-   -   -  -  -  U  U -  U  	True
+	prae, te, re, ēx, i, lēm, Le, su, rām, te, nu, ēm, quē, Dra, ho, num   - U U  - - -   U U -   U U-   -   - - U 	False
+nēc fāstīdītōs Sālmōnae ūsūrpo fluōres	nēc, fās, ti, di, tōs, Sāl, mon, u, sūr, pō, flu, o, res -   -  - - -   -  -    - -  U   U- U  	True
+nāviger ūndīsōna dudūm mē mōle Sarāvus	na, vi, ger, ūn, di, so, na, du, dūm, me, mo, le, Sa, ra, vus - U U  -  - - U  U -   -  - U  U - U 	True
+tōtā vēste vocāt  lōngūm quī dīstulit āmnem	to, ta, vēs, te, vo, cāt, lōn, gūm, qui, dīs, tu, lit, ām, nem - -  -  U  U -    -  -    -  -  U U  -  U  	True
+fēssa sub Augūstīs ūt vōlveret ōstia mūris	fēs, sa, sub, Au, gūs, tis, ūt, vōl, ve, ret, ōs, ti, a, mu, ris -  U  U   - -  -  -   -  U U  -  UU  - U  	True
+nēc minor hōc  tacitūm quī pēr sola pīnguia lābēns	nēc, mi, nor, hōc, ta, ci, tūm, qui, pēr, so, la, pīn, gu, ja, la, bēns -   U U   -    U U -    -  -   U U  -  U U  - -  	True
+strīngīt frūgīfērās fēlix Alīsontiā ripas	strīn, gīt, fru, gi, fe, rās, fe, līx, A, li, sōn, ti, a, ri, pas   -  -    - - - -   - U  U - U  U-  U    	True
+mīlle aliī  prout quēmque suūs magis īmpetus ūrget	mīll, a, li, ī, pro, ūt, quēm, que, su, ūs, ma, gis, īm, pe, tus, ūr, get -    U U-    UU    -   U  U-   U U  -  U U  -  U  	True
+ēsse tui cupiūnt  tāntūs properāntibus ūndis	ēs, se, tu, i, cu, pi, ūnt, tān, tūs, pro, pe, rān, ti, bus, ūn, dis-  U  U-  U U-     -  -    U U -  U U  -  U 	True
+āmbitus aut mōrēs  quōd sī tibi  dīa Mosēlla	ām, bi, tus, aut, mo, rēs, quōd, si, ti, bi, di, a, Mo, sēl, la-  U U   -   - -     -   -  U U   -U  U -  U 	True
+	Smȳr, na, su, ūm, va, tēm, vēl, Mān, tu, ā, cla, ra, de, dīs, set  -  U  U-   - -   -   -  --   - U  U -  U  	False
+cēderet Īliacīs Simoīs memorātus in ōris	ce, de, ret, I, li, a, cīs, Si, mo, īs, me, mo, ra, tus, in, o, ris - U U  - UU -   U U-   U U - U  U  - U 	True
+nēc praefērre suōs audērēt Thȳbris honōres	nēc, prae, fēr, re, su, os, au, de, rēt, Thȳ, bris, ho, no, res -     - -  U  U-   - - -    -  U   U - U  	True
+dā veniām  dā  Rōma potēns  pūlsa  ōro  facēssat	da, ve, ni, ām, da, Ro, ma, po, tēns, pūls, o, ro, fa, cēs, sat -  U U-    -   - U  U -     -     - U   U -  U 	True
+īnvidia ēt Latiae Nemesīs nōn cōgnita līnguae	īn, vi, di, ēt, La, ti, ae, Ne, me, sīs, nōn, cō, gni, ta, līn, guae-  U U  -   U U -  U U -   -   -  U U  -    - 	True
+	cōn, ti, git, haec, me, li, ōr, Thȳ, brīs, ti, bī, glo, ri, a, quōd, tu -  U U    -   U U-     -  -    - -   - UU    -   U	False
+īmpērīi sedēm Rōmaeque tuēre penātes	īm, pe, ri, i, sed, ēm, Ro, mae, que, tu, e, re, pe, na, tes-  - -U  U -   -  -  U  U- U  U - U  	True
+Sālvē  māgne parēns frūgūmque virūmque  Mosēlla	Sāl, ve, mā, gne, pa, rēns, fru, gūm, que, vi, rūm, que, Mo, sēl, la -  -   -  U  U -     - -   U  U -   U   U -  U 	True
+tē clārī procerēs  tē bēllo ēxērcita pūbes	tē, cla, rī, pro, ce, rēs, te, bēll, ēx, ēr, ci, ta, pu, bes -   - -   U U -    -  -    - -  U U  - U  	True
+aemula tē Latiae decorāt fācūndia līnguae	ae, mu, la, te, La, ti, ae, de, co, rāt, fa, cūn, di, a, līn, guae - U U  -  U U -  U U -   - -  UU  -    - 	True
+quīn etiām mōrēs ēt laetūm frōnte serēna	quin, e, ti, ām, mo, res, ēt, lae, tūm, frōn, te, se, re, na  -  U U-   - -  -    - -    -  U  U - U	True
+īngeniūm nātūra tuis cōncēssit alūmnis	īn, ge, ni, ūm, na, tu, ra, tu, is, cōn, cēs, sit, a, lūm, nis-  U U-   - - U  U-   -  -  U  U -  U  	True
+nēc sōla āntīquōs ōstēntāt Rōma Catōnes	nēc, sol, ān, ti, quos, ōs, tēn, tāt, Ro, ma, Ca, to, nes -   -   -  -  -  -  -  -   - U  U - U  	True
+aut ūnūs tāntūm iūstī spēctātor et aequi	aut, u, nūs, tān, tūm, jūs, tī, spēc, ta, tor, et, ae, qui -  - -   -  -   -  -   -  - U  U   -  U	True
+pōllet Arīstīdēs veteresqūe īnlūstrat Athēnas	pōl, let, A, rīs, ti, dēs, ve, te, rēsqu, īn, lūs, trat, At, he, nas -  U  U -  - -   U U    -  -  -   U  U  - U  	True
+Vērum ego quīd lāxīs nimiūm spatiātus habēnis	Ver, e, go, quid, lā, xīs, ni, mi, ūm, spa, ti, a, tus, ha, be, nis -    U U   -   - -   U U-    U U- U   U - U 	True
+vīctus amōre tui praecōnia dētero  cōnde	vīc, tus, a, mo, re, tu, i, prae, co, ni, a, de, te, ro, cōn, de -  U  U - U  U-    - - UU  - U U   -  U 	True
+Mūsā  chēlȳn  pūlsīs ēxtremo cārmine nētis	Mu, sa, che, lȳn, pūl, sis, ēx, tre, mo, cār, mi, ne, ne, tis - -    - -    -  -  -   U U  -  U U  - U  	True
+tēmpus erīt cūm mē studiīs īgnōbilis ōti	tēm, pus, er, īt, cūm, mē, stu, di, īs, īg, no, bi, lis, o, ti -  U  U -   -   -   U U-  -  - U U  - U	True
+mūlcēntēm cūrās sēnīiqūe āprica fōventem	mūl, cēn, tēm, cu, rās, se, ni, iqu, āp, ri, ca, fo, vēn, tem -  -  -   - -   - -  -  -  U U  - U    	True
+māteriae cōmmēndet honōs  cūm fācta virītim	ma, te, ri, ae, cōm, mēn, det, ho, nōs, cūm, fāc, ta, vi, ri, tim - U U -  -  -  U   U -    -   -  U  U - U 	True
+Bēlgārūm pātrīosque cānam decōra inclitā mores	Bēl, ga, rūm, pā, tri, ōs, que, ca, nām, de, cor, īn, cli, ta, mo, res -  - -   -  -U   U  - U   U -   U   U -  U    	True
+mōllīā sūbtīli nebūnt mihi cārmina fīlo	mōl, li, a, sūb, ti, li, ne, būnt, mi, hi, cār, mi, na, fi, lo -  --  -  - U  U -    U U  -  U U  - U	True
+Pīeridēs tenuiqūe āptās sūbtēmine tēlas	Pi, e, ri, dēs, te, nu, iqu, āp, tās, sūb, te, mi, ne, te, las -U U -   U U  -  -  -   -  - U U  - U 	True
+pērcūrrēnt  dabitūr nōstrīs quoque pūrpura fūsis	pēr, cūr, rēnt, da, bi, tūr, nōs, trīs, quo, que, pūr, pu, ra, fu, sis -  -  -     U U -   -   -    U  U  -  U U  - U  	True
+quīs mihi tūm nōn dīctus erīt  mēmōrabo quiētos	quis, mi, hi, tūm, nōn, dī, ctus, er, īt, me, mo, ra, bo, quje, tos  -   U U  -   -   -  U  U -    - - U U    - U 	True
+āgricolās lēgūmque catōs fāndīque potēntes	āg, ri, co, lās, le, gūm, que, ca, tōs, fān, di, que, po, tēn, tes-  U U -   - -   U  U -   -  -  U  U -  U  	True
+praesidiūm sūblīme reis  quōs cūria sūmmos	prae, si, di, ūm, sū, bli, me, re, is, quōs, cu, ri, a, sūm, mos   - U U-   -  - U  U-     -   - UU  -  U 	True
+mūnicipūm vīdīt procerēs prōpriūmque senātum	mu, ni, ci, pūm, vi, dīt, pro, ce, rēs, prō, prjūm, que, se, na, tum - U U -   - -    U U -    -   -   U  U - U  	True
+quōs praetēxtati cēlēbrīs fācūndia lūdi	quōs, prae, tēx, ta, ti, ce, lē, brīs, fa, cūn, di, a, lu, di  -     - -  U U  - -  -   - -  UU  - U	True
+cōntulit ād veterīs praecōnia Quīntiliāni	cōn, tu, lit, ād, ve, te, rīs, prae, co, ni, a, Quin, ti, li, a, ni -  U U  -   U U -     - - UU   -  U U- U 	True
+	qui, que, su, ās, rē, xer, ūr, bēs, pu, rūm, quē, tri, bu, nal  -  U  U-   - -   -  -   - -   -   - - U 	False
+sānguine ēt innocūās īnlūstrāvere sēcures	sān, guin, et, īn, no, cu, as, īn, lūs, tra, ve, re, se, cu, res -   -   -  U  U --  -  -   - U U  - U    	True
+aut Italūm populōs aquilōnigenāsque Britānnos	aut, I, ta, lūm, po, pu, los, a, qui, lo, ni, ge, nās, quē, Bri, tān, nos -  U U -   U U -  U  U - U U -   U   U -  U 	True
+praefēctūrārūm titulō tenuēre secūndo	prae, fēc, tu, ra, rūm, ti, tu, lo, te, nu, e, re, se, cūn, do   - -  - - -   U U -  U U- U  U -  U 	True
+	qui, que, ca, pūt, re, rūm, Ro, mām, po, pu, lūm, que, pā, trēs, que  -  U  U -   - -   - -    U U -   -  -  -   U 	False
+tāntūm nōn prīmō rēxīt sūb nōmine  quāmvis	tān, tūm, nōn, pri, mo, rē, xīt, sūb, no, mi, ne, quām, vis -  -   -    - -  - -   -   - U U    -  U 	True
+pār fuerīt prīmīs  fēstīnēt sōlvere tāndem	pār, fu, e, rīt, pri, mīs, fēs, ti, nēt, sōl, ve, re, tān, dem -   UU -    - -    -  - -   -  U U  -  U 	True
+ērrōrēm Fōrtūna suūm lībātaque sūpplēns	ēr, ro, rēm, Fōr, tu, na, su, ūm, li, ba, ta, que, sūp, plēns-  - -   -  - U  U-   - - U  U  -   -  	True
+praemia iām vērī fāstīgia rēddat honōris	prae, mi, a, jām, ve, ri, fās, ti, gi, a, rē, ddat, ho, no, ris   - UU  -   - -  -  - UU  -  U   U - U 	True
+	no, bi, li, būs, re, pe, tēn, da, ne, po, ti, bus, āt, mo, do, co, ep, tum - U U -   U U -  U  U U U U   -   U U  U-  U 	False
+dētēxātūr ōpūs  dīlāta ēt laude vīrorum	de, tē, xa, tur, o, pūs, di, lat, ēt, lau, de, vi, ro, rum - - - -  - -    - -   -    U U  - U   	True
+dīcāmūs laetō per rurā vīrēntīā tractu	di, ca, mūs, lae, to, pēr, ru, ra, vi, rēn, ti, ā, trāc, tu - - -    - -  U   U -  - -  --   U   	True
+fēlīcēm flūviūm Rhēnīquē sācremus īn undas	fe, li, cēm, flūv, jūm, Rhe, ni, que, sā, cre, mus, in, ūn, das - - -    -  -    - -  -  -  U U  -  U     	True
+Caeruleōs nūnc  Rhēne  sinūs hyalōque virēntem	Cae, ru, le, ōs, nūnc, Rhe, ne, sin, us, hy, a, lo, que, vi, rēn, tem  - U U-   -      - U   U -   UU -  U  U -  U 	True
+pāndē pēplum spatīumque nōvi metārē flūenti	pān, de, pē, plūm, spa, ti, ūm, que, no, vi, me, ta, rē, flu, ēn, ti -  -  -  U    U -U   U  - U  U - -   -U   	True
+frātērnīs cumulāndus aquīs  nēc praemia in ūndis	fra, tēr, nīs, cu, mu, lān, dus, a, quis, nēc, prae, mi, in, ūn, dis  - -  -   U U -  U  U  -    -     - U  U  -  U 	True
+sōla  sed augūstae veniēns quōd moenibus ūrbis	so, la, sed, au, gūs, tae, ve, ni, ēns, quōd, moe, ni, bus, ūr, bis - U   U   - -   -  U U-     -    - U U  -  U 	True
+spēctāvīt iūnctōs natiquē pātrīsquē trīumphos	spēc, ta, vīt, jūn, ctōs, na, ti, que, pā, trīs, quē, tri, ūm, phos  -  - -   -   -   U U  -  -  -   -   -U      	True
+hōstibus ēxāctīs Nīcrūm super ēt Lupodūnum	hōs, ti, bus, ēx, āc, tīs, Nī, crūm, su, per, ēt, Lu, po, du, num -  U U  - -  -   -  -   U U  -   U U - U 	True
+ēt fōntēm Latiīs īgnōtum ānnālibus Hīstri	ēt, fōn, tēm, La, ti, is, īg, not, ān, na, li, bus, Hīs, tri-   -  -   U U-  -  -    -  - U U   -   U 	True
+	haec, prō, fli, ga, ti, ve, nīt, mo, do, lau, re, a, bēl, li  -    -  - - U  U -   U U   - UU  -  U 	False
+hīnc aliās aliāsque ferēt  vōs pērgite iūncti	hīnc, a, li, as, a, li, ās, que, fe, rēt, vōs, pēr, gi, te, jūn, cti -   U U-  U U-   U  U -    -   -  U U  -   U	True
+	ēt, ma, re, pūr, pu, reum, ge, mi, nō, pro, pēl, li, tē, trāc, tu-   U U  -  -  -   U U -   - -  - -   -  U 	False
+nēu verēare mīnor  pulchērrime Rhēne  vidēri	ne, u, ve, re, a, re, mi, nōr, pūl, chēr, ri, me, Rhe, ne, vi, de, ri -U  U -U U  - U    U   -  U U   - U   U - U 	True
+īnvidiae nihil hōspes habēt  potiēre perēnni	īn, vi, di, ae, ni, hil, hōs, pes, ha, bēt, po, ti, e, re, per, ēn, ni-  U U -  U U   -  U   U -    U U- U  U -  U	True
+nōmine  tū frātrēm fāmae sēcūrus adōpta	no, mi, ne, tū, frā, trēm, fa, mae, se, cu, rus, ad, ōp, ta - U U   -   -  -   -  -  - - U  U -  U 	True
+dīves aquīs  dīvēs Nȳmphīs  lārgītōr ūtrique	di, ves, a, quis, di, vēs, Nȳm, phīs, lār, gi, tor, ūt, ri, que - U  U  -    - -   -   -    -  - -  -  U   	True
+ālveus ēxtēndēt geminīs dīvōrtia rīpis	āl, veus, ēx, tēn, dēt, ge, mi, nīs, di, vōr, ti, a, ri, pis-   -  -  -  -   U U -   - -  UU  - U 	True
+cōmmūnēsque viās dīvērsa per ōstia pāndet	cōm, mu, nēs, que, vi, ās, di, vēr, sa, per, ōs, ti, a, pān, det -  - -   U  U-   - -  U  U  -  UU  -  U  	True
+āccēdēnt vīrēs  quās Frāncia quāsque Chamāves	āc, ce, dēnt, vi, rēs, quās, Frān, ci, a, quās, que, Cha, ma, ves-  - -    - -     -    -  UU   -   U   U - U 	True
+Gērmaniquē trēmānt  tūnc vērus habēbere līmes	Gēr, ma, ni, quē, tre, mānt, tūnc, ve, rus, ha, be, be, re, li, mes -  U U  -   - -     -    - U   U - U U  - U  	True
+ā ccēdēt tāntō geminūm tibi nōmen ab āmni	ā, cce, dēt, tān, to, ge, mi, nūm, ti, bi, no, men, ab, ām, ni-   - -   -  -  U U -   U U  - U  U  -  U 	True
+cumqūe ūnūs dē fōntē flūās  dīcere bīcornis	cūmqu, u, nūs, de, fōn, tē, flu, ās, di, ce, re, bi, cōr, nis    -  - -   -  -  -   --    - U U  - U     	True
+	Haec, e, go, Vi, vīs, ca, du, cēns, ab, o, ri, gi, ne, gēn, tem  -  U U   U -  U  U -   U  U U U U  -  U  	False
+Bēlgārum hōspitiīs nōn pēr nova foedera nōtus	Bēl, gar, hōs, pi, ti, īs, nōn, pēr, no, va, foe, de, ra, no, tus -  -     -  U U-   -   -   U U   - U U  - U  	True
+Ausōniūs  nōmēn Lātiūm  pātriāque domōque	Au, sōn, jūs, no, mēn, Lāt, jūm, pātr, ja, que, do, mo, que - -  -    - -   -  -    -   -  U  U -  U	True
+Gāllōrum ēxtrēmōs īntēr cēlsāmque Pyrēnen	Gāl, lor, ēx, tre, mos, īn, tēr, cēl, sām, que, Py, re, nen -  -    -   - -  -  -   -  -   U  U - U  	True
+tēmperat īngenuōs quā laeta Aquitānica mōres	tēm, pe, rat, īn, ge, nu, ōs, qua, laet, A, qui, ta, ni, ca, mo, res -  U U  -  U U-    -   -   U  U - U U  - U  	True
+audāx ēxīguā fide cōncino  fās mihi sācrum	au, dāx, ēx, ig, wa, fi, de, cōn, ci, no, fās, mi, hi, sā, crum - -  - -  -  U U  -  U U   -   U U  -  U 	True
+pērstrīnxīsse āmnēm tēnūi libāmine Mūsae	pēr, strīn, xīss, ām, nēm, te, nu, i, li, ba, mi, ne, Mu, sae -    -  -    -  -   - -U  U - U U  -  - 	True
+nēc laudēm ādfēcto  venīam petō  sunt tibī multi	nēc, lau, dem, ād, fēc, to, ve, ni, ām, pe, to, sūnt, ti, bi, mūl, ti -    - -  -  -  U   U -U   U -   U    U -  U    	True
+ālme āmnīs  sācrōs quī sōllicitārē flūores	ālm, ām, nīs, sā, crōs, qui, sōl, li, ci, ta, rē, flu, o, res-    -  -    -  -    -  -  U U - -   -U   	True
+Āōmdūm tōtāmque solēnt haurīre Aganīppen	A, ōm, dūm, to, tām, que, so, lēnt, hau, rir, A, ga, nīp, pen--  -   - -   U  U -     - -   U U -  U  	True
+āst ego  quāntā mei dederīt sē vēna liquōris	āst, e, go, quān, ta, mei, de, de, rīt, se, ve, na, li, quo, ris-   U U    -  -   -  U U -   -  - U  U  - U  	True
+	Būr, di, ga, lām, cūm, m, īn, pā, tri, ām, ni, dūm, que, se, nēc, tae -  U U -   -     -   -  --   - -   -  - -   -	False
+Augūstūs  pater ēt nātī  mea māxima cūra	Au, gūs, tūs, pa, ter, ēt, na, ti, me, a, mā, xi, ma, cu, ra - -  -    U U  -   - -   UU  - U U  - U 	True
+fāscibus Ausoniīs decorātum et honōre curūli	fās, ci, bus, Au, so, ni, īs, de, co, rat, et, ho, no, re, cu, ru, li -  U U   - U U-   U U -    U   U - U  U - U	True
+mīttēnt ēmērītae pōst munerā dīscīplīnae	mīt, tēnt, e, me, ri, tae, pōst, mu, ne, ra, dīs, cī, pli, nae -  -   - - -  -  -    U U -  -  -  -    	True
+lātius Ārctōī praecōnia pērsequar āmnis	la, ti, us, Ār, cto, ī, prae, co, ni, a, pēr, se, quar, ām, nis - UU  -   --    - - UU  -  U  U  -  U  	True
+āddam ūrbēs  tacitō quās sūbterlabērīs ālveo	ādd, ūr, bēs, ta, ci, to, quās, sūb, tēr, la, be, ris, āl, ve, o-     -  -    U U -   -   -  U  U - -  -  U  	True
+moeniaque āntīquīs tē prōspēctāntia mūris	moe, ni, aqu, ān, ti, quis, tē, prō, spēc, tān, ti, a, mu, ris  - U  U  -  -  -   -   -  -  -  UU  - U  	True
+āddām praesidiīs dubiārūm cōndita rērum	ād, dām, prae, si, di, īs, du, bi, a, rūm, cōn, di, ta, re, rum-  -     - U U-   U U- -   -  U U  - U  	True
+sēd mōdō securīs nōn cāstra  sed hōrrea Bēlgis	sēd, mo, do, se, cu, rīs, nōn, cās, tra, sed, hōr, re, a, Bēl, gis -   - -  U U -   -   -   U   U   -  UU  -  U  	True
+āddām fēlīcēs rīpa ēx ūtrāque colōnos	ād, dām, fe, li, cēs, rip, ēx, ūt, ra, que, co, lo, nos-  -   - - -   -   -  -  -  U  U - U 	True
+teqūe īntēr mediōs hominūmque boūmque labōres	tequ, īn, tēr, me, di, os, ho, mi, nūm, que, bo, ūm, que, la, bo, res   -  -  -   U U-   U U -   U  U-   U  U - U 	True
+strīngēntēm rīpās ēt pīnguia cūlta secāntem	strīn, gēn, tēm, ri, pas, ēt, pīn, gu, ja, cūl, ta, se, cān, tem   -  -  -   - -  -   -  U U  -  U  U -  U  	True
+	nōn, ti, bi, se, Li, ger, ān, te, fe, rēt, non, Ā, xo, nā, prae, cēps -   U U  U  U U  -  U U -    -  - - -    - -   	False
+Mātrona nōn  Gāllīs Bēlgisqūe īntērsita fīnis	Mā, tro, na, nōn, Gāl, līs, Bēl, gīsqu, īn, tēr, si, ta, fi, nis -  U U  -    -  -   -     -  -  -  U U  - U  	True
+Sāntonicō rēflūūs nōn ipse Cārantonūs aestu	Sān, to, ni, co, rē, flu, ūs, non, īp, se, Ca, rān, to, nus, aes, tu -  U U -  -  --   -  U  U  - U  U -   U    	True
+cōncēdēs gēlīdo  Durāni  de mōnte volūtus	cōn, ce, dēs, ge, li, do, Du, ra, ni, de, mōn, te, vo, lu, tus -  - -   - - U   U - U   U  -  U  U - U 	True
+āmnis  et auriferūm pōstpōnēt Gāllia Tāmen	ām, nis, et, au, ri, fe, rūm, pōs, tpo, nēt, Gāl, li, a, Ta, men-  U   U   - U U -   -   - -   -  UU  - U 	True
+īnsānūmque ruēns pēr sāxa rotāntia lāte	īn, sa, nūm, que, ru, ēns, pēr, sā, xa, ro, tān, ti, a, la, te-  - -   U  U-    -   - U  U -  UU  - U	True
+īn mare pūrpūreum  dominae tamen ānte Mosēllae	īn, ma, re, pūr, pu, reum, do, mi, nae, ta, men, ān, te, Mo, sēl, lae-   U U  -  -  -    U U  -  U U  -  U  U -   -	True
+nūmīne ādoratō  Tārbēllicus ībit Atūrrus	nu, min, ad, o, ra, to, Tār, bēl, li, cus, i, bit, A, tūr, rus - -   - U U -   -  -  U U  - U  U -  U  	True
+	Cōr, ni, ger, ēx, tēr, nās, ce, lē, brān, de, Mo, sēl, la, per, o, ras -  U U  -  -  -   - -  -  U  U -  U  U  - U  	False
+	nēc, so, līs, ce, lē, brān, de, lo, cis, u, bi, fōn, te, sū, pre, mo -   - -   - -  -  U  U U   U U  -  -  -  - U	False
+ēxeris aurātūm taurīnae frōntis honōrem	ēx, e, ris, au, ra, tūm, tau, ri, nae, frōn, tis, ho, no, rem- U U   - - -    - -  -   -  U   U - U  	True
+quāve trahīs placidōs sinuōsa per ārva meātus	qua, vē, tra, hīs, pla, ci, dōs, sin, u, o, sa, per, ār, va, me, a, tus  - U   U -    U U -   U U- U  U  -  U  U- U  	True
+vēl quā Gērmānīs sūb pōrtibus ōstia sōlvis	vēl, qua, Gēr, ma, nīs, sūb, pōr, ti, bus, ōs, ti, a, sōl, vis -    -  -  - -   -   -  U U  -  UU  -  U  	True
+sī quis honōs tenui volet ādspīrāre camēnae	si, quis, ho, nōs, te, nu, i, vo, let, ād, spi, ra, re, ca, me, nae -   U   U -   U U-  U U  -   - - U  U -  - 	True
+pērdere sī quis in hīs dīgnābitur ōtia mūsis	pēr, de, re, si, quis, in, hīs, dī, gna, bi, tur, o, ti, a, mu, sis -  U U  -   U  U   -   -  - U U  - UU  - U  	True
+ībis in ōra hominūm laetōque fovēbere cāntu	i, bis, in, or, ho, mi, nūm, lae, to, que, fo, ve, be, re, cān, tu- U  U  -    U U -    - -  U  U - U U  -  U 	True
+tē fōntēs vīvīque lacūs  tē caerula nōscēnt	te, fōn, tēs, vi, vi, que, la, cūs, te, cae, ru, la, nōs, cēnt -  -  -   - -  U  U -    -   - U U  -  -  	True
+flūmina  tē veterēs pāgōrūm glōria lūci	flu, mi, na, te, ve, te, rēs, pa, go, rūm, glo, ri, a, lu, ci  - U U   -  U U -   - - -    - UU  - U 	True
+	tē, Dru, na, tē, spār, sis, īn, cēr, tā, Dru, ēn, ti, a, ri, pis -   U U   -   -  -  -  -  -   --  UU  - U 	False
+Ālpiniquē cōlēnt fluviī dūplīcemque pēr urbem	Āl, pi, ni, que, co, lēnt, flu, vi, i, dū, pli, cēm, que, per, ūr, bem-  U U  -  - -     U U-  -  - U   U  -  U    	True
+quī meat ēt Dēxtrae Rhodanūs dāt nōmina rīpae	qui, me, at, ēt, Dēx, trae, Rho, da, nūs, dāt, no, mi, na, ri, pae  -  UU  -   -    -   U U -   -   - U U  -  - 	True
+tē stāgnīs ēgō caerūleis māgnumque sōnoris	tē, stā, gnis, e, go, cae, ru, leis, mā, gnūm, que, so, no, ris -   -  -  - -   - -  -   -  U   U  - U   	True
+āmnibus  aequoreae tē cōmmēndābo Garūmnae	ām, ni, bus, ae, quo, re, ae, te, cōm, mēn, da, bo, Ga, rūm, nae-  U U    -  U U -  -  -  -  - U  U -   - 	True

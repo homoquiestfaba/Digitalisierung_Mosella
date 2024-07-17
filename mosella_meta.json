@@ -1,0 +1,39 @@
+{
+  "title": "Mosella",
+  "author":{
+    "name1": "Decimus Magnus Ausonius",
+    "gnd1": 	"https://d-nb.info/gnd/118505165",
+    "name2": "Otto Schönberger",
+    "gnd2": "https://d-nb.info/gnd/119234564"
+  },
+  "editor": "Dennis Binz",
+  "date1": "0371-01-01",
+  "date2": "2014-02-05",
+  "created":{
+    "from": "tba",
+    "to": "tba"
+  },
+  "location":{
+    "name1": "Augusta Treverorum",
+    "gnd1": "https://d-nb.info/gnd/4060877-3",
+    "name2": "Stuttgart",
+    "gnd2": "https://d-nb.info/gnd/4058282-6"
+  },
+  "language": {
+    "name": "Latein",
+    "iso": {
+      "ISO 639-1": "la",
+      "ISO 639-2": "lat",
+      "ISO 639-3": "lat"
+    },
+    "eigenname": "lingua latina"
+  },
+  "src_desc": "Ausonius schildert in 483 kunstvollen Hexametern eine idealtypische Reise von der Nahe bei Bingen durch den heutigen Hunsrück zum Tal der Mosel, die bei den Römern Mosella hieß. Die Mosella ist das einzige überlieferte antike Gedicht, das sich ausschließlich einem Fluss widmet.\nEr beschreibt in den ersten Versen der Mosella den Aufbruch zur Reise an der „nebelreichen“ Nahe und nennt in den folgenden Versen verschiedene Orte, an denen er vorbeikommt. So erwähnt er die neue, erst 368 entstandene Ummauerung von Bingium, das er als Vingo bezeichnet, die Orte Dumnissus und die Reisestation Tabernae im Hunsrück sowie „Noiomagus“ (Noviomagus Treverorum), das heutige Neumagen-Dhron an der Mosel. Im weiteren Verlauf hebt Ausonius zu einer hymnusartigen Lobpreisung der Mosel an. Er preist ausdrücklich ihre Naturschönheit, den Fleiß ihrer Anwohner, den Reiz und die Fruchtbarkeit des Moselufers und der angrenzenden Landschaft und erwähnt dabei auch zehn Nebenflüsse (Prüm, Nims, Sauer, Kyll, Ruwer, Lieser, Dhron, Salm, Saar und Eltz).[1] Ein Teil der Mosella ist der umfangreichen, aus 64 Achtzeilern bestehenden, Aufzählung von 15 Fischarten gewidmet, die zu Ausonius’ Zeit in der Mosel vorkamen. Wiederholt zieht Ausonius auch Vergleiche zu anderen Orten wie seiner gallischen Heimatstadt Burdigala (dem heutigen Bordeaux) oder der Provinz Britannien.\nDazu kommt eine Übersetzung von Otto Schönberger aus dem Jahr 2000. Er setzt in seiner Übersetzung alle 5 Verse des Originals einen Marker,d er für diese XML-Datei übernommen wurde",
+
+
+  "length": "483 Hexameter",
+  "publisher":{
+    "name": "Philipp Reclam jun. GmbH & Co. KG",
+    "gnd": "https://d-nb.info/gnd/2017814-1"
+  }
+}
